@@ -1,0 +1,2384 @@
+{
+  "0x33e9094830a5cba5554d1954310e4fbed2ef5f859ec1404619adea4207f391fd": {
+    "schema": "bool like",
+    "data": [
+      {
+        "uid": "0x9a59af8e92ad4fe4765428314b6917e2f4fc9177679533b053ab6489dcc59766",
+        "recipient": "0x86Ce09Aa916aC65b6Ac8A64978E95D8F63FA6F32",
+        "data": {
+          "like": false
+        }
+      },
+      {
+        "uid": "0x776a3cca60dba20832b61c5dfa79a60bec789b647f2ed119b80dd044daf3e3e2",
+        "recipient": "0x8932be04b60dbCB0482962a8C025E8abE2a6Df25",
+        "data": {
+          "like": false
+        }
+      },
+      {
+        "uid": "0xd154f0005ba83f11196cda35ff2725fa013ed7be281a5f707487fe2fd69ee37b",
+        "recipient": "0x4e78C11649cf6722E4800155A7fd7538a3C6eA1c",
+        "data": {
+          "like": false
+        }
+      },
+      {
+        "uid": "0xf8b5a2ddcc5b82fb6f259988a4f6c5a9a1ef96e9e2ee7fe8d94182e7d7a97cd5",
+        "recipient": "0xa6433808a6c4088C117593F437e85cef9a0f9803",
+        "data": {
+          "like": true
+        }
+      },
+      {
+        "uid": "0x2db7797a3c87ccc7b505962c125330dd5779789629589f078581fbea46cf53ac",
+        "recipient": "0x7A06D80A0E4D04302AA09564ae56b142995FB7B6",
+        "data": {
+          "like": true
+        }
+      },
+      {
+        "uid": "0xf63b151f88314883fa1ce4382183e72837fb73c23bdd109f3fed099ac9499cc5",
+        "recipient": "0x9ADb1d0283fC95EAC4E3169b44DECe8b91Aa2B86",
+        "data": {
+          "like": false
+        }
+      },
+      {
+        "uid": "0xccccaefbcd2b3abc4a747a0a7224bb52cef1ec18cf3b988d67208c3f66cef2a6",
+        "recipient": "0xFc063e6FA5Af1C30A0c586FAD261b5ED2A2BE681",
+        "data": {
+          "like": false
+        }
+      },
+      {
+        "uid": "0x7beaf75bb6826fb4c9a159fe14afd7983d1f2312bd00b547abf925128be8cb76",
+        "recipient": "0x8B5347cCABEEAa66Fb97bc3F6FA7B33A25120Cd6",
+        "data": {
+          "like": false
+        }
+      },
+      {
+        "uid": "0x284fdeba9bbae6b2a97c573e7e5b19610bd571fcc425a509505275b6dba737de",
+        "recipient": "0xbE2798304841E7279A923a2103FE685a58519F83",
+        "data": {
+          "like": true
+        }
+      },
+      {
+        "uid": "0x0e3b6b34b6e18e878de6877e799e00bd8a106fbae4d95917b9b2beda507ebafe",
+        "recipient": "0x77fEf641EE65612B034FF03FD0BA42a0Df6aeB7B",
+        "data": {
+          "like": true
+        }
+      },
+      {
+        "uid": "0x4b1c1225b08a6385098101f4b4140e987efc8a963663c4db9df1cabb875862d5",
+        "recipient": "0x38DC7F67fb4484C644e8f2D828eDEFF736529D67",
+        "data": {
+          "like": true
+        }
+      },
+      {
+        "uid": "0xe1ed96d9e24747b28e2e7a661efa4f02e07316ac2ef3298f7122fe266f36937d",
+        "recipient": "0xA4D3409148920Ce1c68bf2FA6C58899b05A34F08",
+        "data": {
+          "like": false
+        }
+      },
+      {
+        "uid": "0x6443b7a1b71289bcaae5148ff11303f63272defdbbc946c7ad8ed24615a1f8d1",
+        "recipient": "0xECC0D6B06Ed986B29c181f3b355458aA93B8AeBC",
+        "data": {
+          "like": false
+        }
+      },
+      {
+        "uid": "0xd28257b4e0a5b0d831a62f99980feb58fa0501c164c86384685744a36d85e0d0",
+        "recipient": "0x7Aff02Fd3c75F1F734eC7712d744E1A834e6dF06",
+        "data": {
+          "like": true
+        }
+      },
+      {
+        "uid": "0x0b674544d7300aa5f2323cfda7e3e7efef8bebadcf8c8eb1759dbee8185dda12",
+        "recipient": "0x2Ff0E08971E6Ce93A5BeE3b267B5AD3aD089C56b",
+        "data": {
+          "like": false
+        }
+      },
+      {
+        "uid": "0x4b92b564559ac70bc7de680e8aad794c76824c984bb26e5bfdfee2740fc82d17",
+        "recipient": "0xBB1Df479d8C24197f51e8aE07deE52609b8e6827",
+        "data": {
+          "like": true
+        }
+      },
+      {
+        "uid": "0x05b374c32bdb8c04123f1d03f464da8615c6c4fd984653b1d976785da4829680",
+        "recipient": "0x040F319eC12Ea3FBb020afAb4F550EBb954EC33a",
+        "data": {
+          "like": true
+        }
+      },
+      {
+        "uid": "0x716c50cda59208e6859df3c58fda695ccfc837a8faa0e42500b150474e4793fa",
+        "recipient": "0x99215d4B3B1576F21E04be2C5df8a8a9F0c77062",
+        "data": {
+          "like": true
+        }
+      },
+      {
+        "uid": "0xbb9097798175c89200884d5ff51c2a73548fa2ab7b2f43f5caf5ec4f2246f2ca",
+        "recipient": "0xdf2Aa69cf2Ad835E24Ae9694D4Cd0f224A57014F",
+        "data": {
+          "like": true
+        }
+      },
+      {
+        "uid": "0x88bfa95771d395fdc46adac7413cc0460ba3d1b9450b38d08ec306bf29d5dc03",
+        "recipient": "0xA35eE6aCe9D1234CE3695c4bD153f674962b2CD6",
+        "data": {
+          "like": false
+        }
+      }
+    ]
+  },
+  "0x55101a1628875a053dcaf713b1ef2c92392e7544227c153206d904fee6b2f46a": {
+    "schema": "address contractAddress,bool trusted",
+    "data": [
+      {
+        "uid": "0xe75d205945214bf7715d7aba7042abcb091f86a62a27200670c099f428135da3",
+        "recipient": "0x081161440fCdabBec857eac26FaDdAfce9ecA733",
+        "data": {
+          "contractAddress": "0x55508CF6ad4ccF261f2c0c860DA506eeaB696aAD",
+          "trusted": false
+        }
+      },
+      {
+        "uid": "0xb4075b2f32f476aeb21f4ce1cd8c7fab851a1c51970383fc2674deeb8404978b",
+        "recipient": "0xbc3A28e35e45B6fe43Bca9381Be63717AaA5c7a7",
+        "data": {
+          "contractAddress": "0x61A0Ce7BE82Da4733A7014Ae3ADC5c9Ac39E7E35",
+          "trusted": true
+        }
+      },
+      {
+        "uid": "0xe790498187568039c17daa888ed130a5e2c66352c4434f34b6dc1a0204f4649c",
+        "recipient": "0x81767a1156f479693c5144c34E4046424f6b6bE7",
+        "data": {
+          "contractAddress": "0xE9B4c19ad6700b3C274D67fF746026BA81b9d199",
+          "trusted": true
+        }
+      },
+      {
+        "uid": "0x217e88becc0b53ba6486c17573ca20b9465dc270632d822499943cf6482e3282",
+        "recipient": "0x0E93e1882df432a8D4581b005B5C93a5263C7569",
+        "data": {
+          "contractAddress": "0xAde2c4C0b4Df1A698C2fF9ddbb9f8Da853152F34",
+          "trusted": false
+        }
+      },
+      {
+        "uid": "0x86e48074e93a1ebe8fc11b641607a7964c810396b9f4d31ced62387231647fae",
+        "recipient": "0x2D1Ff0047C04B37B7EDcf8E1F3d2FdaB2A6cE832",
+        "data": {
+          "contractAddress": "0x7Ba88a03127FFB8C14aE6d67adD3f7977E6235BA",
+          "trusted": false
+        }
+      },
+      {
+        "uid": "0x3a7080dff6913e56c42c50b10591116aaef0e1af6b38028f33c1b4135a827969",
+        "recipient": "0x793307eD52d37c5107f9AF4186AC53514e2DFad3",
+        "data": {
+          "contractAddress": "0x03d747efb35aB058b118A9F7F910e1396C5B01C8",
+          "trusted": true
+        }
+      },
+      {
+        "uid": "0x7b513ab8e3426b0d7e7e97b1ea971cb9781aeba449fe769416cbd45d38d98d06",
+        "recipient": "0xf5CD641bd5D4d456b0e83334b506D3Deba090fd1",
+        "data": {
+          "contractAddress": "0x46Eb88c20f319bA7F0244934e056921711B6E4a3",
+          "trusted": false
+        }
+      },
+      {
+        "uid": "0xa069235eb8442497cf9928922cf4d3c6d23138fcb789ed31f7d4fcac7e0eb185",
+        "recipient": "0xBb0C8c2dEB55B4E5D56871a38CF552d67AF62a1E",
+        "data": {
+          "contractAddress": "0x7C5380Ec430545eF1Ebaf8B0155943a4221419CF",
+          "trusted": true
+        }
+      },
+      {
+        "uid": "0x20db97c48b9c6173aa92b611ff916aed5a152186d461c682886fd65f5bcb2e97",
+        "recipient": "0x5c0d43d07Bcbf1E58e3373aeD1e28631cC8c7255",
+        "data": {
+          "contractAddress": "0x2f7F02fC2022f6553d787b7B112f5a44919931F8",
+          "trusted": true
+        }
+      },
+      {
+        "uid": "0x29c7d8819e3c7bd9f3dbb8c57b0c07d8ca9b6b8ca17d78f94db4b23e021f137a",
+        "recipient": "0xEfde547bD8F5FF7fc8C5adD962Bf6CcfB1dd6453",
+        "data": {
+          "contractAddress": "0xf6295C1Ae6dA6fFCf20A89840f5b2D7f81dd3D0B",
+          "trusted": true
+        }
+      },
+      {
+        "uid": "0x3e5590e3819c1330e11b8f09faeaf2578f81b48a645d4fdbbece6763406ae804",
+        "recipient": "0xA673a8dB3b617607F150F5BB2fF2b43B43eE0001",
+        "data": {
+          "contractAddress": "0x1810d09E2e96528C5Cc399b706F9C3Fd14E81E23",
+          "trusted": false
+        }
+      },
+      {
+        "uid": "0x4d2922fdeaa8030f18086606dc6dc10d5348dd02f5326036400ab1cd14033b28",
+        "recipient": "0xb2fdaC8913E2f9a23f2234ed7A83f3e7ac0C930C",
+        "data": {
+          "contractAddress": "0x4725E99B583b33905a503fA4712eb0F6f324Bb1c",
+          "trusted": false
+        }
+      },
+      {
+        "uid": "0xf48c099fc94ada98d4df8c3f6918f8a156471ca8ddcdf1930a1d9db3a1f64af2",
+        "recipient": "0xC47b53D295CD7a21C5A55CA5296af40eD7bc5d7D",
+        "data": {
+          "contractAddress": "0xD77DD77Ae1d6E0654B1c61635f08bb289931914b",
+          "trusted": false
+        }
+      },
+      {
+        "uid": "0x6eff5ddb73dc57e11e302b0c37e486339b8c463a51a490a4bfcd4da98b6a20ec",
+        "recipient": "0xA1770b455DB08D066c36Ee8bd26B7629667faaf4",
+        "data": {
+          "contractAddress": "0x4411738a5644534Ae64C65E50a1aFe3Cd220C2F8",
+          "trusted": true
+        }
+      },
+      {
+        "uid": "0xfc64dee3b78cc6c2d6e8aab0dcdc10a2f6b83ec7d09253aa2225f0a730731de9",
+        "recipient": "0x51720D129A681f6D79511D389B37dBCA910Bbe95",
+        "data": {
+          "contractAddress": "0x8aaa07aD5A3AB43B54709be9fFC1F7393B4F59d7",
+          "trusted": false
+        }
+      },
+      {
+        "uid": "0xa7920bf05df3d38c1f1770a4c83c7d6d6e3388679e2d9adb497586c28b04712f",
+        "recipient": "0x2fAa6eB8311e8F9f4f9329B7Ef7e695C060d49D0",
+        "data": {
+          "contractAddress": "0xe38EE09B25075d9D5Fbd062B49666C756D338488",
+          "trusted": true
+        }
+      },
+      {
+        "uid": "0xaca96d6ab1ca648a4396bccde5fe91155448a9dae785b5851aefba803df5a93c",
+        "recipient": "0x4775d3a3479Cb2Af02a36D2A628a97720bb523d2",
+        "data": {
+          "contractAddress": "0x00cbAEeb7a20eFdc8F6A7b130A6c09AE6202C18B",
+          "trusted": false
+        }
+      },
+      {
+        "uid": "0x37762769f9bc68322bb74a5f861b0a183cdfd85f1a536924a080bfd783385e63",
+        "recipient": "0x8EdE0a1C24e835d6a1d250662Df056611b2A1c4e",
+        "data": {
+          "contractAddress": "0x9b6AD41a631DFa53b945f942B445b3475684aFA2",
+          "trusted": true
+        }
+      },
+      {
+        "uid": "0xc1956bab3bd2cf5b99af1f1a20ef54d30b1b109a0d5c0655dd2c5c575d17004d",
+        "recipient": "0xC80c084CCEb7620393266DDCed92d17a4aead8d6",
+        "data": {
+          "contractAddress": "0xe856378bB01BedC584d3Bd6c5F12A04c3cB91E78",
+          "trusted": false
+        }
+      },
+      {
+        "uid": "0xf1b6c31c1ddedd46de76a4f2f0dd531b5ce4b8ffdf6497cfca9e7b689fee2b05",
+        "recipient": "0x1c51C3D7bf6D7d7828902BBC59790f27BE33B2Af",
+        "data": {
+          "contractAddress": "0xD19c163D59AF4175F7C0424632EFbAF6b8747DE2",
+          "trusted": true
+        }
+      }
+    ]
+  },
+  "0x9e30695f05ad280a1caf4ec15621dde07cd22aa8cf834e58b84b816c2ccfb6ac": {
+    "schema": "bytes32 eventId,uint8 ticketType,uint32 ticketNum",
+    "data": [
+      {
+        "uid": "0x5ccf7429c2447c65d7a8bc385ede96e8ebd6f41b2de72618911be233c26d193c",
+        "recipient": "0x54aECB2EB376F5962Dc607B1Ed335471ABDC3E2e",
+        "data": {
+          "eventId": "0x4132217a78503223267732424d69535a735740316b765a41516b6c5672467800",
+          "ticketType": 145,
+          "ticketNum": 4232847418
+        }
+      },
+      {
+        "uid": "0x36daaf8a877f6693ef94a3c09b04383b40f2b6d7bfacffae3e84dd7f13f41a9d",
+        "recipient": "0xb2EaEC7387BfA73ea550C0fEe39639dBc491A661",
+        "data": {
+          "eventId": "0x4b4c4349775472417263355b4c6f34354928525e3947666f454b216121552500",
+          "ticketType": 151,
+          "ticketNum": 1762405093
+        }
+      },
+      {
+        "uid": "0x983c67351f9aee7d30b1d8ec1d25c436c48e71941f10749b90ec42735ef9130d",
+        "recipient": "0x2b10328b9519457FcB48E80A2dCC2c4ad2acE12B",
+        "data": {
+          "eventId": "0x733145586f2362403036725050746a5d39284835625630495926296767765500",
+          "ticketType": 7,
+          "ticketNum": 2706745714
+        }
+      },
+      {
+        "uid": "0x036f7a39a465ea16c41e70fd55874122641a7c1a07a45cbc5165b0239f54d519",
+        "recipient": "0xaA9d795c5D4F5c10d8707cBeE11ad1d6Bd98140d",
+        "data": {
+          "eventId": "0x45765b78307821613939532a4437724b6e395630535849246f665b4962426300",
+          "ticketType": 73,
+          "ticketNum": 4060509935
+        }
+      },
+      {
+        "uid": "0x151fa74137a54b6dc8076040e14ffdd66326d52c5d861a20f0769b4eb991d849",
+        "recipient": "0x60704938e549C0C7AfE8cD21E08882A87f891ab6",
+        "data": {
+          "eventId": "0x24745a30457a424c254363257852243752522a6c3654502656484b6f76365600",
+          "ticketType": 62,
+          "ticketNum": 2522554617
+        }
+      },
+      {
+        "uid": "0x29bf908ed9df87c2b263447ec059b4674db0e5cf2cbfe6db74e21e2a3c04a931",
+        "recipient": "0x29Af801653F14eab29f50EeE88B718B0F43bA97f",
+        "data": {
+          "eventId": "0x6d6146445277644f41672154396e684d4054625553482145754f7132734a3400",
+          "ticketType": 238,
+          "ticketNum": 2941592965
+        }
+      },
+      {
+        "uid": "0x9f8ad7a6625e843130e5ff3a3c5c90323717b42327825b08ad67d2cfe449a8cb",
+        "recipient": "0x2b8E79a4195febB8DE8Cf97885988Df7D022c5F6",
+        "data": {
+          "eventId": "0x5329385438444f6739745e756f56315d6f76387331533044736658684f256e00",
+          "ticketType": 134,
+          "ticketNum": 3891295291
+        }
+      },
+      {
+        "uid": "0x83582bae58ee303571e59a00bca8bbf5a5d3934ebde8ed5a5eac97948ee89884",
+        "recipient": "0x73C02A5acB4B15ebf44F16a54B7FA83978398c8f",
+        "data": {
+          "eventId": "0x5b533030722a34715e425d286f7735524c495a73383174505429675174505100",
+          "ticketType": 102,
+          "ticketNum": 1807933011
+        }
+      },
+      {
+        "uid": "0x11f958de4f53ea7f959bc135f41086d7fd83d15aaeaffd3c3cba83d1901de4ba",
+        "recipient": "0xe6f218688d685aEc76B8ec71683C58FDb0EDFd6A",
+        "data": {
+          "eventId": "0x4c4568707730504d4c7a734326247a565e4b713952634448614a284967643400",
+          "ticketType": 138,
+          "ticketNum": 1447155313
+        }
+      },
+      {
+        "uid": "0x149927b3890745cffe19efece8125a9abfa671a568589b37db20f22803cb0eb4",
+        "recipient": "0x91a28629faBe73d62Cae62d83B56587C0599dc08",
+        "data": {
+          "eventId": "0x632642264552555a414c772461694a5d564a786b712942365921267253646d00",
+          "ticketType": 149,
+          "ticketNum": 532810941
+        }
+      },
+      {
+        "uid": "0x7223af0de69fc916370fb7c68f46aef365450d4052acac378cfe1ac960fac9af",
+        "recipient": "0x1297770d6049466256365C33B0bD950549dE923d",
+        "data": {
+          "eventId": "0x4958772563635d78305a7567452446566d386c6e5741434e2135455542547800",
+          "ticketType": 247,
+          "ticketNum": 3069231927
+        }
+      },
+      {
+        "uid": "0x736828640746e73b2984130964d22a60ccee20b7e1bc9d91299587a787ce8251",
+        "recipient": "0xB88dA220eeD88C99F8be216BE13f313211735727",
+        "data": {
+          "eventId": "0x75784d334d435e3674294e66674f774d4c7756417725306946594536786d5600",
+          "ticketType": 13,
+          "ticketNum": 759593070
+        }
+      },
+      {
+        "uid": "0x35551e9067ad5b0b7cafe5d184ee48b22f3d8325bd0b5f51c0535fcd44594039",
+        "recipient": "0x97C09f137658d30fa57E90619449cA18ea47B41F",
+        "data": {
+          "eventId": "0x794d34254b75655d5567254b636c4d7870336d6c6624375d5e4a76685b4c7400",
+          "ticketType": 180,
+          "ticketNum": 1624495675
+        }
+      },
+      {
+        "uid": "0x57de808f5df2b82a8ff9570ff6f7ed27f1f6b6263ef75dfaca41ee4ba8087e0b",
+        "recipient": "0x8b91eb8664E668B8fC5D0192cBaD92D82a2f93b4",
+        "data": {
+          "eventId": "0x426e46693042465e65395e74526f736b367a34264a6b5b5d31436a3747367300",
+          "ticketType": 73,
+          "ticketNum": 1474392747
+        }
+      },
+      {
+        "uid": "0xafe84813d216a0aff473f038c65237027448cb53cd46d6822b9fd3924a7bbc31",
+        "recipient": "0x7a1B04CA65df5C95c5c64B077633863DFe5563A7",
+        "data": {
+          "eventId": "0x6a415233504f6526534c46464c6b54215562523559315a6f45706f564d556400",
+          "ticketType": 130,
+          "ticketNum": 1480461865
+        }
+      },
+      {
+        "uid": "0x270efc89ed9e266fb89202cad41041d19ad1fead1a6c30b4401c6f7ee5937e4d",
+        "recipient": "0x489C8f4E84F54E8294FEAe98fa6fA066b4Fd7D3c",
+        "data": {
+          "eventId": "0x415072524433496b4a6a542164336475374a446f484e744b4e63473270346e00",
+          "ticketType": 37,
+          "ticketNum": 3728266111
+        }
+      },
+      {
+        "uid": "0xd80ac429f530172ce54d9397e85106987ac07f0d1d8b6dbcf5efd6885ce385b8",
+        "recipient": "0x9c6E95bDE5CC5f0f4d1f018E3f2d1866d7D37B2b",
+        "data": {
+          "eventId": "0x4a423038686f6729355367636e4b246364586a5d5330485d5267326e6e692800",
+          "ticketType": 165,
+          "ticketNum": 2036073069
+        }
+      },
+      {
+        "uid": "0x2157a62917f5eac9a9e525fc6fc2369635d9839a646029cc5a770af464fe3ecf",
+        "recipient": "0xAeEafb291B95de6b850D8d4F5e67a05D4643e8bb",
+        "data": {
+          "eventId": "0x685e506c282650366b587356312a61264a4d6268212571724f525e6458365600",
+          "ticketType": 239,
+          "ticketNum": 4190845441
+        }
+      },
+      {
+        "uid": "0x1b891a89917f7eb35eadbee88849e982bc5a3041b1a88d3603d59ef60749b84a",
+        "recipient": "0xcaAe37Bf6dcd44610A8458C5d47c80be8A6Ce8c0",
+        "data": {
+          "eventId": "0x7244485d545161454357264677464961404d316e6140715e42784c3028655400",
+          "ticketType": 105,
+          "ticketNum": 2297383034
+        }
+      },
+      {
+        "uid": "0x5875c5c2859619f66689c5bfcf81be6ca14bb0a39d58b5769a8a5b1250c67f5f",
+        "recipient": "0x46c941b18763b87B9355Dec88530b1a799C2198f",
+        "data": {
+          "eventId": "0x79624b4b57585b4e70556779282a2a49564c6b66784e26746357502a796a6700",
+          "ticketType": 79,
+          "ticketNum": 3721738018
+        }
+      }
+    ]
+  },
+  "0x8af15e65888f2e3b487e536a4922e277dcfe85b4b18187b0cf9afdb802ba6bb6": {
+    "schema": "bool isHuman",
+    "data": [
+      {
+        "uid": "0x1215054c782597da7e8ae9905d4e546e57a1fb41f89fa506aac321770fb5c763",
+        "recipient": "0x6C25693AA321e5bE4e386F1CDD9263a786c34e4a",
+        "data": {
+          "isHuman": true
+        }
+      },
+      {
+        "uid": "0x470e448c67216b685b1006c8db1aebfde08d572f40625e9091647c9f3dda8212",
+        "recipient": "0x2D1a92C5EBe28b9fB7a68C744B00427B8219Dae1",
+        "data": {
+          "isHuman": true
+        }
+      },
+      {
+        "uid": "0xb6cdbee9e3b2b90c5499d31e825cfe5cb085701ee51520d048e004e75acef562",
+        "recipient": "0x1cBf047a48309642a804613c01Cafa4A550EC577",
+        "data": {
+          "isHuman": true
+        }
+      },
+      {
+        "uid": "0xf17a77db081fdd9975848ceb0a8940ae542d163d9ff7d3598a8e382df6f9abda",
+        "recipient": "0x7373b9f9C8b0351e400597ceDfBac51C3FF591eA",
+        "data": {
+          "isHuman": true
+        }
+      },
+      {
+        "uid": "0x225310df8983b89cee7993dcb1c0b05ebeaf5eab3fb0278e69fcedb001d01743",
+        "recipient": "0x20751e678E469BE9490E541d26C7AE63E547df4d",
+        "data": {
+          "isHuman": true
+        }
+      },
+      {
+        "uid": "0x0c5cfc95f4d37279401a3dd8228f1052e13415bafaa1e6d5e5bf95999f9c3516",
+        "recipient": "0x7477Ab5b287FaEd425C80cB63E9BAe7aa7Ddd85C",
+        "data": {
+          "isHuman": true
+        }
+      },
+      {
+        "uid": "0x961e1b8356ba8fe8c5b88f790f1b01d239f87b2d3356700b73b50d18477a3a9a",
+        "recipient": "0x3412C57cA26f70aa1EeB60a01Ed2cd354790Cddf",
+        "data": {
+          "isHuman": false
+        }
+      },
+      {
+        "uid": "0x2b61102a2940a23f4f42910b4c5bf93793910f6db5ed144a4ebfa08187205884",
+        "recipient": "0x3197d78791C249F9281b3AaeF0BAf708AE037E0C",
+        "data": {
+          "isHuman": false
+        }
+      },
+      {
+        "uid": "0xc3c7ae3ed73e1441c8f4505648e46d63c04366e3c8f4615bcfbec2b3ea0e4c3a",
+        "recipient": "0x426D5844975C9519920eEfdb1Ba56AA5BE5fb71b",
+        "data": {
+          "isHuman": false
+        }
+      },
+      {
+        "uid": "0x98d375038199122ca59d4a71416e5b8c8f6f011504353e6bae07843aee3cea88",
+        "recipient": "0x557c2c6FA994DC304904272a15D95b1610667e57",
+        "data": {
+          "isHuman": false
+        }
+      },
+      {
+        "uid": "0x60acc0a6b2ad918f731a0e1d1309dcc2515ea0426aba0ade36f152cef7888991",
+        "recipient": "0x73b2C2C8B30929197A29D3f1E1d850F754234932",
+        "data": {
+          "isHuman": true
+        }
+      },
+      {
+        "uid": "0x08c7873edcbce79daaf0a4bb19e1844adbeda2fda8e601d5c5587ae859cce851",
+        "recipient": "0xEbc3Ac625fc761C3baA9a7b7e2C896FD9CB910EB",
+        "data": {
+          "isHuman": false
+        }
+      },
+      {
+        "uid": "0x4f0893e1c5e5befb74bbc1dc46a5c9ddb3b648397b666f4d2013443a3fd41c8e",
+        "recipient": "0x62022fb79cc8D08d8dE2A44A9EA6665d040472Da",
+        "data": {
+          "isHuman": false
+        }
+      },
+      {
+        "uid": "0x175ce9de4a629c96db438ba6bcbc18de86bef50ae008e7e622a9d75110c75f60",
+        "recipient": "0xc790cA42Aa0b9D8487d6ce9FcD91588811D35A90",
+        "data": {
+          "isHuman": true
+        }
+      },
+      {
+        "uid": "0x5827dd01ad06265067387ebd46e725e5ffeca943674a4a21abd95c19b405e586",
+        "recipient": "0x1531eEA032607904FE8BAA5738105d9366Ba1dd1",
+        "data": {
+          "isHuman": false
+        }
+      },
+      {
+        "uid": "0x4ebee31a52e683e5a00c142d187d1ee0d626305daef6410440989a339b0ec3db",
+        "recipient": "0x991B44c0706a7e4438245D2Ad7A34132D4Ab9068",
+        "data": {
+          "isHuman": false
+        }
+      },
+      {
+        "uid": "0x00d1c62d4a446df3b65db93a34cbbe6faf10562e71b42d17313f5a1026ccbc1b",
+        "recipient": "0x935E771F329b52A986eee404773540fEB6a659C8",
+        "data": {
+          "isHuman": false
+        }
+      },
+      {
+        "uid": "0xe227fb70cc49aaf0da110218b670df199a5687bad9b7bc0e6c318c38667eb492",
+        "recipient": "0xa05759BC812c974343f92Ef4c3a3dBFBcc209bf8",
+        "data": {
+          "isHuman": true
+        }
+      },
+      {
+        "uid": "0x4f4ba7736d6b4d4ef2703eb666d47c8f1c777fb9beffb9f7dc146d2359f49fcb",
+        "recipient": "0xFd7b8Ab57378F00875950391a07EF540D9edb834",
+        "data": {
+          "isHuman": true
+        }
+      },
+      {
+        "uid": "0x2016469f1c5e5c7378ea43fb1fac31c62fce069762e1243461e7e3d14da4d419",
+        "recipient": "0xF651c3F64af1dd08359c14A60385A5EcaCD97b40",
+        "data": {
+          "isHuman": false
+        }
+      }
+    ]
+  },
+  "0x7058fe5d1216b6144f54a4afd5874a7692b417fa03af6db5fec0f23cd3597193": {
+    "schema": "bytes32 name",
+    "data": [
+      {
+        "uid": "0x9c054004d8270c6a3dfccc4f46297673a30ae0778ef17e8f487a579f4368ec9f",
+        "recipient": "0xd691AA21644659b61E827Ed603c6533276Ad6fA8",
+        "data": {
+          "name": "0x526f646e65792057697365000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x6b1f2f3aa0c4641abd136af89edf50866c079379889d486a6ff6219df9cfec72",
+        "recipient": "0x982A8Ecc567B8D27A19A9f85FEB2aE271f101763",
+        "data": {
+          "name": "0x4a6f68616e6e61204261726e6573000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xc14b86a8f511b599a05028b443cc6f35aa91e23e4b0559be990ef09a5eca443b",
+        "recipient": "0x9f77523D03289B81dDdD7A04d58a71D60015C102",
+        "data": {
+          "name": "0x4f6c612057617272656e00000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x9223a9f7b19ba6687aff98139834dc92749973608e7dd32f147b975b902df306",
+        "recipient": "0xaDAE6A291a8BD42088C5044A22444CAfd7B7c67E",
+        "data": {
+          "name": "0x42656e6a616d696e204d75727068790000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x6462f19860c77101e4e08f081c74b04f80b39c8ba1287e5af9f7548cf1a8d41d",
+        "recipient": "0xd9017B04Eeb1933Ee916a4a06c02d027d10A366C",
+        "data": {
+          "name": "0x53616d2057656176657200000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xaec31e594fad102d2f744e360d1365dca0852cbd192aa8d967424f4c39002986",
+        "recipient": "0xf69557EE52d6a51F71798cBA130F81F2BeC725e0",
+        "data": {
+          "name": "0x5068696c697020526f6262696e73000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xdb8517b57d5e6b290cc9f577d8a06df2ac9d87e1616a24e4c906ea6fd8575c51",
+        "recipient": "0xc176831fa4B2E460C53dbf5307B1E59523184a56",
+        "data": {
+          "name": "0x4b61746872796e20526569640000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x92e0941042e3adac368b1e670ad6567f270e70bd853b8669e46ac584b56ace3f",
+        "recipient": "0x4f4dc3AA3f53271a17FbEC7761C6E6E443008046",
+        "data": {
+          "name": "0x4a616e696520436872697374656e73656e000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x2dd59597a9637dc4f1a1c03f901a94f877ed101a25936c6d5b8bb8fb29a7b5b4",
+        "recipient": "0x797A56425A024503a2Cb7173a63749032e1279e8",
+        "data": {
+          "name": "0x4164656c6169646520506172736f6e7300000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x252bf7b78a857dcd8ec27485cc088c170e96297074bfa06f99e0c50b29a71ad6",
+        "recipient": "0xaBB53d451b856B3681559eB2F56806D38E70aca7",
+        "data": {
+          "name": "0x4461697379204a6f686e73746f6e000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x0a16bb0f307c8835050eccb8bd0120f91bf132b6513e28cbc1dec80e21c0b4c7",
+        "recipient": "0x0642086A43868119C93135b8BD57BEd0B57D61C7",
+        "data": {
+          "name": "0x4a696d205068696c6c6970730000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xdc08eca42c113b6903c28fa4df1497f7223b31dbb70caa3052822da22f702c27",
+        "recipient": "0x6eF1e8074dfeBC3C23113F3EF033cb28869C067d",
+        "data": {
+          "name": "0x4e6574746965204c6974746c6500000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xdeeac662f6aec7a8b2515b95d22b6d75c3fad666894aa42304d97dfb19eef985",
+        "recipient": "0xAefB6576468d218E2114B233c4C6799A43A816B1",
+        "data": {
+          "name": "0x4c75656c6c61204672617a696572000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xd2f539d4c7d564239731f2ec58dac2443750327185e014506081a9c8d3ca2197",
+        "recipient": "0x205104e13Bc4CdE54A6C7aB83d644d5B9b4e1d11",
+        "data": {
+          "name": "0x526f79205068656c707300000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xe7693eaaae83c45b327b4dc6462ee7d5dca92820e6143a40a5ad56d1a83ca012",
+        "recipient": "0xb3E3C943C4fAcd0b32832b92017cA0DC9e4804C5",
+        "data": {
+          "name": "0x436c6172656e6365204875626261726400000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x0f98e0ed34a6a9d3a96d4e1cb73a9ded76b5347e6afab7980c4e98dfae0dabb8",
+        "recipient": "0xaAbCD38735220ADAf91f5Fe780965e1Ec9422795",
+        "data": {
+          "name": "0x456477617264204661726d657200000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x6f090ff9d121ad3b4f138b274d59d7128d5ef856bd87294d583d04dbe07b2dfd",
+        "recipient": "0x04B25053c90d11c810A7cF03CD2Ee11663a864DE",
+        "data": {
+          "name": "0x496e657a204c656f6e6172640000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x64e2853221939f70816e9ad54472eb3740d2180673adc320dcfe16ea6c3c209d",
+        "recipient": "0x3E7017b46fECBe13B1B79E16a096d35ad9c17189",
+        "data": {
+          "name": "0x416d616e6461204c6172736f6e00000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x1f9721a0d02188ec1930344223498c892589cd78832911ebf30d1255e72c2f14",
+        "recipient": "0x871182CD373DFee4A8D6E89f5Ba7A3d2b38b6d09",
+        "data": {
+          "name": "0x4c6f74746965204d696c65730000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x09c30f81508d5a8c17459d244ac3aaf9d955a51fa688c9cb422fd6b91fb1bb0a",
+        "recipient": "0xdD7a359b062Ae67050B4D8D89BbEC5c9bF58648C",
+        "data": {
+          "name": "0x4d6172696f20476f6e7a616c6573000000000000000000000000000000000000"
+        }
+      }
+    ]
+  },
+  "0x3969bb076acfb992af54d51274c5c868641ca5344e1aacd0b1f5e4f80ac0822f": {
+    "schema": "string message",
+    "data": [
+      {
+        "uid": "0x77cd6498a697d7d652795d955a6816c88b76bfe4927957bb79a43bf16db8987a",
+        "recipient": "0xF10285c822ED6CA712AEcC232EB8574C94d529EC",
+        "data": {
+          "message": "Wosotli zuz kivgobru bi miiju zumjowir am op wupu la zor duvbojgud ojinuocu zurobzag ejuwiup jud kuk ep."
+        }
+      },
+      {
+        "uid": "0x90c713d862f03a662a3dcf7a47ee5d5f92691da8afa53f50dbbb88bf6707b5d7",
+        "recipient": "0x0f763dAf676315c2bbBaB15a96Ea68FD2af577cE",
+        "data": {
+          "message": "Cakozege gili vungun wuhfi ned okaolela zoz bazijrat dauhiti tufbophe ata ci gincog."
+        }
+      },
+      {
+        "uid": "0xa91d67d6ab2b34e76a1336fcf2a82071eb0f2cb7f3d1936d73ff7ff79b155ab1",
+        "recipient": "0xD519190704D80Fdf63Abc4Dd7aCDe1016D06c9d6",
+        "data": {
+          "message": "Hic gukutoko pef hevlako takfohuj we kaanzas zosig jihkik go vus jiihhob wolbelge bez fokhi iwe nawane uv."
+        }
+      },
+      {
+        "uid": "0xfd4da30031d022b4c94a21de675e8ee0d6267749d427be3f938e552679f07cdc",
+        "recipient": "0xB3730931f48A686BC1c9d8ee8052303b5a27aA39",
+        "data": {
+          "message": "Bih de afi eb uw jo keluv ozu zenamivu wukco cetzozas zenel upjago vosfatok vosci."
+        }
+      },
+      {
+        "uid": "0x5b29030558210f9dd92715cb82fb78ec68991514de29842be13f89b6ff217e85",
+        "recipient": "0x80afCeed8e47B0c8F33994199FE95cAB012a1f64",
+        "data": {
+          "message": "Iwati acjozza mallasle diwlehluw vih da ruc zuwamal cub aha zapon dodgeak tus olijigmuz epanesduw loufvim iji isfa."
+        }
+      },
+      {
+        "uid": "0x34be7e20bbb90cf28bb5ac34f15878abcf1e8fbb4af57fcc98fd39d6e8208511",
+        "recipient": "0xeab098c4405B0570e8b1617BcdAC265cecf3bB9a",
+        "data": {
+          "message": "Jedewza az ker ibi get afiwipnub ro vimviv nein gajwocbiw deju nubbaw wu jad bobwim rac hud."
+        }
+      },
+      {
+        "uid": "0xd037c9d6b2710b2d38c977b521c1a4aa98391edbac953ad1b91d0d766d86b42b",
+        "recipient": "0xD5a03c3b9C1F232fee98F310520588524310cc1C",
+        "data": {
+          "message": "Jageru judzecnud jedugdom loh ganigoz wabu altep jubad uto vajkiim umaoduin ejta anciw kogligabo gezusok hi."
+        }
+      },
+      {
+        "uid": "0xf8584b047588fa498e51ef84e62ee8afdad29c4dbfb6435e01de45c8012c3632",
+        "recipient": "0x715Efa5315B61b1bB21D0D49B227eD6d71b108Ba",
+        "data": {
+          "message": "Wupeb opuwu rehu ewore fub kan eb lo bigu le puhupopen jipa."
+        }
+      },
+      {
+        "uid": "0xf9b05f4920fbecb0693e337c53eab311abe5df07191d06854f887cbfd12c73bb",
+        "recipient": "0xf995fb52C1d28B3bDdD878e4a7D298e44073104b",
+        "data": {
+          "message": "Piji faho kusih dasaron mif medidciz ke umuhiosi carig gewe liosod ur opaewu."
+        }
+      },
+      {
+        "uid": "0xcd9432caed2af20a957780015e7fa688576f61a5074e290ea09844a4deb757eb",
+        "recipient": "0x10a21733D2c7af7A1060DAf9F848d40048b75230",
+        "data": {
+          "message": "Lovih fodhoji agejanov ci impukfag covgietu zulub icebepfuk jipve zotradzo rur geicu."
+        }
+      },
+      {
+        "uid": "0xe89c263f5af4ef0d93d47ad75a42203901423cbf7a7168d3208da14bb914f493",
+        "recipient": "0x42361d49f5E4fFe540418CEF7616a693E2255301",
+        "data": {
+          "message": "Darul nabpurbet fu daegkep bubnij puv gumfugdog hi kulajoj fapiwo vel dip tova puzju fubabub nu."
+        }
+      },
+      {
+        "uid": "0x699bb625afc6d643355910d72079705709b04d5496129dc2cdfc897185b4e9c9",
+        "recipient": "0x22577Ba68a49FFaa71Da02170206d5CD8b2C710E",
+        "data": {
+          "message": "As loajueri haus boso bowikiva kirin hubaz najen wuwboreb ni im lob."
+        }
+      },
+      {
+        "uid": "0xe5f73544455f020d927498e60619c2f14e14f50e016044735ed94b0cd293fe9a",
+        "recipient": "0x59d570Ac245CA8E7e5a633fe7711c2a8CA092F41",
+        "data": {
+          "message": "Ge sehe ede dogiimi cugojva enapevsi zo oguzu wa matho lozewo ha sojohog ak fag je."
+        }
+      },
+      {
+        "uid": "0x938a36ce47abc781d3a695ef340c4842011814e97d10ac708ee75a21608bebe5",
+        "recipient": "0x27d677fa7c59D4139Aa1c7c8fECa14791d650f27",
+        "data": {
+          "message": "Ecafolawa fot esfuzib lesavzo lobi hicre nogo je zercuj anapis be wucapuj jismido ehibpa gonserlir."
+        }
+      },
+      {
+        "uid": "0xb9912fc93f2d769cb9304e3b91b2a1776d98d7323814cff5b4d4b8a39a038723",
+        "recipient": "0xa043f80054BD63deeEbf1ec3Ebc317118494cc9E",
+        "data": {
+          "message": "Be pozu mu ninenbag ho revah galo ipi gagdepbu vidiwoj ra no igab fukvet."
+        }
+      },
+      {
+        "uid": "0x87118b7777f586fb07a4b87094b751a08fe1a47cb8b1be9b01fcd244be1e0247",
+        "recipient": "0x2D277D89C91BF90927425B740D561C20c1bC469f",
+        "data": {
+          "message": "Cijhaj ilofan jidi kefuhpa dahvih buabri wojas pohab olwopjiz oc rom ebdec bib."
+        }
+      },
+      {
+        "uid": "0x8033e42267b9e772047dd5e064f5df15968566e230acf48eece43ed63aad78b0",
+        "recipient": "0x5960dC709555D02c8846F80773ec2eBD35f239d7",
+        "data": {
+          "message": "Vev iwisowo ra rockir puhroli ibalosim cipebwiw uka madvaf cujwalir noggi jidago ewu pekpuuri ev."
+        }
+      },
+      {
+        "uid": "0x00b73c4cf6285327570ce1684050767d9eb36a8385198d47f1ca76a1a34f2998",
+        "recipient": "0x2dca70c59231C3E72dB985465A4C0eb0653A2078",
+        "data": {
+          "message": "Ekmiz ven tugitfip lole la dod vos ugafe wuwum ne va ifcoh melargi wus fadu."
+        }
+      },
+      {
+        "uid": "0xe9f1ed048061b57c21c013f5883324ff9465147596f6d2a236437425f3c0cbd1",
+        "recipient": "0x0eC63e532dbd3dF496bEbC4bA92647C23b930911",
+        "data": {
+          "message": "Ma heowzeb et hemot wo voeh rethear ihkuube kofedahe guzudmin ejolilo zaw tezjonbam ewko kaukejem."
+        }
+      },
+      {
+        "uid": "0xc5b933a27cb87166ad49346fab9977eaf3277b25c4de760972b935a13ebdd778",
+        "recipient": "0x8d8BeD40a9f2B6b6fa06F164F643A201c0Ef231A",
+        "data": {
+          "message": "Bowmuefe pimobdav emudezmi cez hiberom igije di vok hamopma setifit upi wuge vike fahkuk kedrelva dauh."
+        }
+      }
+    ]
+  },
+  "0x1c12bac4f230477c87449a101f5f9d6ca1c492866355c0a5e27026753e5ebf40": {
+    "schema": "bytes32 username",
+    "data": [
+      {
+        "uid": "0xd8ddfcb503e10e84b8bee3d677ffc04709402b77855f96b226d9f6b899260e01",
+        "recipient": "0xc98bd3086D5F617b6E79F09784a16f9bA4602968",
+        "data": {
+          "username": "0x626176756e407069766172752e6e670000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xad5c528b577b4d9037852308246b619e4673d50f428fc7df3e7abbae36d96874",
+        "recipient": "0xb6f67E07f481B1D09516F46c5A7e7ABD4186c866",
+        "data": {
+          "username": "0x7769666675406875696c7a6f2e6b650000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xdd4b991013506ad7cb919439d7639e3c27c39b90a0e2f340cba1fd719945216c",
+        "recipient": "0xCEA3401F6D9792Ea05900472C4f71e891D967b30",
+        "data": {
+          "username": "0x7061406564696a612e7472000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xeca279d6c780c8283e9ef418db21f99a76dd829da1200cad24be183921c9d974",
+        "recipient": "0x9BB9b740De409Cc9B20518208e9D20837A225963",
+        "data": {
+          "username": "0x696276656570614061626665702e737500000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xe21333787c8f14f034b9b5ca0a233e477fb01ba159d7490bddc60fbfe4f196c2",
+        "recipient": "0xfE2FA235DAf7AE09E554911EDeFEf01f55C9A1fc",
+        "data": {
+          "username": "0x6a6169636540697a6d6f6b652e69650000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x4bdc2180c5322ce486b5f53618757e6160c3cfa473605e83d9193b943c395820",
+        "recipient": "0x9c7aaaa9837F8aB428616802FE6f9a1Fe6B52edf",
+        "data": {
+          "username": "0x627574696e617769406b6f6c7562612e6b6d0000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xf283537f555a65e0716e185d28fbf175493e7beb1e1b148adad74c837341b23e",
+        "recipient": "0x28C8dd3f2D35e1979081230D37239F64cFaEC357",
+        "data": {
+          "username": "0x72756c6f7a67756340706973652e727300000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x0415cd3c7383e5b31481f748843e4f8a180f7df53ad0fe51f7d9ae1749d1f576",
+        "recipient": "0x7D35b2E794703f114A36b1E8Ade288Fd5a8d92CB",
+        "data": {
+          "username": "0x636564656d696b4076616f7663752e6c69000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xc988da5663aebc02c98592636cfd940337dae7f57c9c7d748363893908890818",
+        "recipient": "0x957B3895d0BB1DE1D47B50167531Bd7BfD96960F",
+        "data": {
+          "username": "0x6e6940676173706f2e6367000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x7f48b4260c2bf1d5f5e723d2ed4984810cd534e83ae7bced178351748cde42e8",
+        "recipient": "0xBf1592b841E1681f1E05534F9e95abADEF8CE8Ae",
+        "data": {
+          "username": "0x7a614068756f7a2e737900000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xbbb48701dea08f39a81d2b61304de11eede02236e04a3b21611096d97f8d1b2b",
+        "recipient": "0xc4dea3402938FC283350Cd08cCD16AcfE74A7f67",
+        "data": {
+          "username": "0x7a756e4072656b2e6d7000000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x7d853eb2a22738b2b030089f7cd56eb14d034f94e7e7f3510eb18dd97ca4553d",
+        "recipient": "0x507beF2D990C487d1d40040248318ADb6458993e",
+        "data": {
+          "username": "0x68617a694074652e6b7700000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xc83a87c24f0a75166094044757c054417e859db7a5da7aa30026ba943580c79e",
+        "recipient": "0xB04A7EcBb6729a0228795C9Ee872b0187855EA80",
+        "data": {
+          "username": "0x70696c407761636f68612e627a00000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x658ee5ed82d39199b255d3f2aca3b8b7c83440ef979ecc230127d67b5f916f5e",
+        "recipient": "0x5D0D3e308bA0aA922a40dc323eE3C9dF95728012",
+        "data": {
+          "username": "0x766972407a65732e706d00000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x547fa831898d893bd53e91f326f949e80904ed96aa06c63a5093f7c1985279fd",
+        "recipient": "0x1AF565A5ab05D8B2C9Ae0A086aE23E48f6E70d53",
+        "data": {
+          "username": "0x626575766540616c756b6e752e6f6d0000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x18043e3bc4359085c4999f6ff5fb68d9568da2f5cafeef58ba9a2cb2ecf34158",
+        "recipient": "0xF67E849fA877Db809d279f041275Fa5d65fa5001",
+        "data": {
+          "username": "0x6461406e65666f622e746d000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xfd6ebd4cbab486f63c248cd279d537010ad1378061975116725d95c3e1273c7f",
+        "recipient": "0x0f195122F05395C3043b6B2E4020F75E44E200E9",
+        "data": {
+          "username": "0x69777572654066692e666a000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xdb26219ecce65a9a86da0fca24521f458dbaa44b4ab05ccc4df0542aed80cb3e",
+        "recipient": "0x1Bcd520586cC18663DBCC7351aD3c7066c37aD82",
+        "data": {
+          "username": "0x777566646174407665632e627a00000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0xf2512f2bcc73f8c8c9e7ea2f10758275b1c014894b7d7c66eb193b4a3901b0ed",
+        "recipient": "0x337D261424690CDB4b1737F5440201e8A22cBc69",
+        "data": {
+          "username": "0x7669664072656e612e6f6d000000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "uid": "0x15f849ba1e90658e3349f4279f679deb8fce59e424b7570ab0508fa20fd65a94",
+        "recipient": "0xD275B9c60266Adc6890f2D08a677BcFa52ea0f70",
+        "data": {
+          "username": "0x646f4063656d6f7a69732e676500000000000000000000000000000000000000"
+        }
+      }
+    ]
+  },
+  "0x27d06e3659317e9a4f8154d1e849eb53d43d91fb4f219884d1684f86d797804a": {
+    "schema": "bool isFriend",
+    "data": [
+      {
+        "uid": "0xf40e3d5ff87148a8247b8baf098ca1aafb439f27c7f6398d46d976f33670f674",
+        "recipient": "0xa101054FDCEe50E4d9145dFf5DdE8c5788C6a658",
+        "data": {
+          "isFriend": true
+        }
+      },
+      {
+        "uid": "0x10fe599709968c2a8816034548f9385fe1f0aa4608d7f2902f56dd4f0ed2207d",
+        "recipient": "0xfC5DD9C2Ce8d0EaA4CeD0A6ffe6d3C8D986AAf66",
+        "data": {
+          "isFriend": true
+        }
+      },
+      {
+        "uid": "0x081cf473f989d6ab961d845ad443dda1715454e3a9dc1cbe0af07efc55464705",
+        "recipient": "0x6C888b08c0b1959fbFE9dF42A26b78E90c9C3C60",
+        "data": {
+          "isFriend": false
+        }
+      },
+      {
+        "uid": "0xda6338d2e55b5576ff6da13b7a68b88e0423628b560cbdeba874ceffb34daced",
+        "recipient": "0xAA274B554fD07CCf1141E986F9a225bC6d0AaeeD",
+        "data": {
+          "isFriend": true
+        }
+      },
+      {
+        "uid": "0x2111ea2076fe1f9a88bf29cc3e6860153e08425eb2845ca84a5b6b6802c61dc4",
+        "recipient": "0x2e1b27370b6c367B416DE61e83C53b104A27f7ad",
+        "data": {
+          "isFriend": false
+        }
+      },
+      {
+        "uid": "0x8d4954e1d5cd02f1403521b1148d65a0b39c3fef756575d9a9cdfdcabd23d7bc",
+        "recipient": "0x554B94C09bD50E924e90C3c3Aa5d687074419538",
+        "data": {
+          "isFriend": true
+        }
+      },
+      {
+        "uid": "0x35b8cf74635e7337dc6a441fef52d35ef1bfaf8e8b816bee4489d13fd50c5bf7",
+        "recipient": "0xc9a34853d609b6926f937c09f5ee36397E732755",
+        "data": {
+          "isFriend": false
+        }
+      },
+      {
+        "uid": "0x94dc527ce70433ce72664a7c54ad2d1da8fe3f703ebc9013047384a5f724c22e",
+        "recipient": "0x59a3905F4805fea2cD5b00be05b0E2599821c1c5",
+        "data": {
+          "isFriend": true
+        }
+      },
+      {
+        "uid": "0x40f80aec434f4f6bb141f428933b8f96246d2c06ecb83106228822589f1aeb1d",
+        "recipient": "0x5D8cF8a6acd6A8BF063E31108E092A5E09f6d0Bd",
+        "data": {
+          "isFriend": false
+        }
+      },
+      {
+        "uid": "0xf046a3691391588a9e297ed649b24da6459fbeef72e4938e3017094c4bde9a8c",
+        "recipient": "0x786b6D1912B9fF4F38886c8a111C3250fBC1cc53",
+        "data": {
+          "isFriend": false
+        }
+      },
+      {
+        "uid": "0x5cd8baea6ff007671a876ed516cca0c511de7bbdca8cb148ed690fd8e4cd1ef2",
+        "recipient": "0xED67712EA87a2C4501a22c5C8cBB92afD5012655",
+        "data": {
+          "isFriend": false
+        }
+      },
+      {
+        "uid": "0xdbbf97605497679267179eec0c56efc3ab48f15811da5d8267eb52959a82476a",
+        "recipient": "0xEDb2Ae08f1fE00b63Fa4fD4A081ACf7CA60EA479",
+        "data": {
+          "isFriend": true
+        }
+      },
+      {
+        "uid": "0x97de48536d21d902af0c37abf104a8e37339cfff2e8d9a11b20b24ecaf106464",
+        "recipient": "0x77458F5349DC5E3F853B3FFA988aAF328e1356Cd",
+        "data": {
+          "isFriend": false
+        }
+      },
+      {
+        "uid": "0x13c57de76573cdb6aef29620d4bf90aa3c64660b90d7b58f085b5372e31060cf",
+        "recipient": "0xF36b020AB30e5Fb000a1F833DF89a33170eA84C8",
+        "data": {
+          "isFriend": true
+        }
+      },
+      {
+        "uid": "0x3d14d7a502a06af2c8b1c47285b9ba4da9c2dd93de119d11e5893f750f51b760",
+        "recipient": "0xaa083824D59a36e92c68749d6A5348f8308b63cf",
+        "data": {
+          "isFriend": false
+        }
+      },
+      {
+        "uid": "0x3e79d9b192deecb22aad5a0ae69478e4f19c9e60debbcc01536c1cb72bc32f61",
+        "recipient": "0xd8fd4298Ac9a41F1B29d8BCaB0FB4980D625f271",
+        "data": {
+          "isFriend": true
+        }
+      },
+      {
+        "uid": "0xb862ac8a768602c79f2f7f457e103601ec53bd8d0c65da271d4500b5fad04800",
+        "recipient": "0x394d40136dadd5f1F827BB4E4c5f2Eb8EB784F84",
+        "data": {
+          "isFriend": true
+        }
+      },
+      {
+        "uid": "0x5391a0ff56eb96dd2f6d112a0552921bfd586e52f5fb36b8c929b5c7debff46f",
+        "recipient": "0x4D8D16B7931491C19Fa3C654EeF58f48F3a478b6",
+        "data": {
+          "isFriend": false
+        }
+      },
+      {
+        "uid": "0x181f98bb4d3bb289cba8a3bc09bc7ee8e18c25d365ffb29866380307805f94c4",
+        "recipient": "0x3FEd026588769CE6c84730c4c400178dC9da8c2f",
+        "data": {
+          "isFriend": false
+        }
+      },
+      {
+        "uid": "0x175c6f61f321189d60dfd0de1c18ea80c5d648e851c017f7e2c3ce559396a1ed",
+        "recipient": "0x6B4a954bBcEeB3b57238b69d9feaf4ec57aC678F",
+        "data": {
+          "isFriend": true
+        }
+      }
+    ]
+  },
+  "0xb7a45c9772f2fada6c02b9084b3e75217aa01a610e724eecd36aeb1a654a4c7e": {
+    "schema": "bool hasPhoneNumber,bytes32 phoneHash",
+    "data": [
+      {
+        "uid": "0x4b9d4dd65fcdb08f2f9a2192f726c4eb3e7cad8252b5f1ba49b04e1c862cab73",
+        "recipient": "0x783DBF63936f939dA65e8BF59ea7bd9C1ad9b2d6",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0xd116da1a8df46e480800d6d443b2455321c4692db121cadec95559ac11d14619"
+        }
+      },
+      {
+        "uid": "0x7b3852487826aae80f3412236c40497d94f173409841b3eef18932b1933d3742",
+        "recipient": "0x46C2988Ab72e82fED811d0D45dF9F9DC8Ae67B49",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0x54279d76612acfaa1712a53b06cd756c7f86639bbda1ad598c6f58fe2d20a7ed"
+        }
+      },
+      {
+        "uid": "0x168b575596b7a970e2dc385d7fe532adb8bb8a464e76402d979d52fbca7a28a1",
+        "recipient": "0x47f9C8415A791B726DDb9E345510813846321899",
+        "data": {
+          "hasPhoneNumber": true,
+          "phoneHash": "0xb8f37ba8abc13b87ed7d1515eea09f721ed44888634f6ca18fac282e6ce386f4"
+        }
+      },
+      {
+        "uid": "0x7f94e92d34e9c8f58d2f490985d991ee0525c176ea64281ec643ccf8718385b7",
+        "recipient": "0x1d14D1C5ecD9e79Ded9c53743405f9e8b8843D8e",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0xcd8708bd15220720de067c023dbe021988a0afae2e5c157bd95607d53a87e179"
+        }
+      },
+      {
+        "uid": "0x3b96675ae2ae785b36dfef498b9c6cccad16e0eafcc26bd9715053372ff8d0eb",
+        "recipient": "0xBF12034a602473DFBaa33E29c40480aB9D50f065",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0x1138c46f2d97b84045ec9321f084056bc86b306082ca3a7aa9a7f76792697975"
+        }
+      },
+      {
+        "uid": "0xb7f32e080e325b4c82d1679c5750eb3aaec736e97efadb4e33a49a99ae42143c",
+        "recipient": "0xdC05949C56d55e1ae116aF561c0aFdc0155170a4",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0xce1906088256118483c81e70ca78977f26030f8643c5e9631bd9727d9ec7f4d3"
+        }
+      },
+      {
+        "uid": "0x6d3be31707a591dad8b5a705f16a6ecbd4c9cc211327f71f7f710d55676d5c83",
+        "recipient": "0x40f9FCA4983268B49dD8505394C1E1ba9332B52A",
+        "data": {
+          "hasPhoneNumber": true,
+          "phoneHash": "0x548ba8ac8bc58ff719b248249eac15232f23a8dad8294465ff51ad36ab92fc31"
+        }
+      },
+      {
+        "uid": "0xbeab33270a6cacbc75f74061affb3bffe34905623fe1280cc8f5f3e483a5f95e",
+        "recipient": "0x70797fC582f5Caf44A1bD9d2ce59E1D81aeC7088",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0x13a4e69ccedb075193c7445e1a4d6b8cecd4d89efc329557fe0be4fa32edd519"
+        }
+      },
+      {
+        "uid": "0x434e56b055c3a8a8f941c572844782eb4a0c1c78d11ef3dc57a68737ac7333e8",
+        "recipient": "0x0FeA21441f8bDC4755F7aCdFf209284E2838D20f",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0xa7281db3544f50f734bfa30af751c28030b5468d4ae295e3c4a9840dae89de79"
+        }
+      },
+      {
+        "uid": "0x19f7fd2ddd877209c7246d80dc841bf31a54ad391e4adc2f747166f57d95fda8",
+        "recipient": "0x3DD149A662903d7cCc3BB0899B8d5286e21304D2",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0x6ce900359d5a0d5e3ffd8584c32150dc4cb8869dc6d879bf4fc2e1e94cfb3c7a"
+        }
+      },
+      {
+        "uid": "0x680df82460067fa9c4a009239f81c476f9b753ca3d3a46d7c3c67a413ac8b216",
+        "recipient": "0x7824AB64c10B5E2F00827a41391b0046C52DFB04",
+        "data": {
+          "hasPhoneNumber": true,
+          "phoneHash": "0x9d5531c9f91645695e22f857d41c1386c2bf8992bba9b58b1c18cb175f774e81"
+        }
+      },
+      {
+        "uid": "0x8a48b8c17d47f9e8e694143ad4a66477394e39e372aaba9098a220d973e74295",
+        "recipient": "0xA03016184aF14a1e46FF5f986eD7CB13944BC18f",
+        "data": {
+          "hasPhoneNumber": true,
+          "phoneHash": "0x2aac88b77c4fe12eaf922f7a4faf0a6b13d4876b2c65ff162bc72dd72dfb9cfd"
+        }
+      },
+      {
+        "uid": "0x32bcd9acb9407965bf48e279e540b09f9e6b19f225161407e86b053b60493d40",
+        "recipient": "0x1697B4c280b91234E2F09ed45A8e5Cc11Aebc9B3",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0x4ddd7bbe20c24933cc2cfe2e6341c71f88e6bc693e9065e1f98c2e587208c47b"
+        }
+      },
+      {
+        "uid": "0x2c2f4d16d08f6efd866e28961813d2290f4635698ad6f7f26624b2e8d5cdcbca",
+        "recipient": "0x7cD342A3bC065d91699257011AA5d61330f65157",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0xc83f1814de3a2981799fc178a583a83ca5495f425c84c1839b115d7a29723bf2"
+        }
+      },
+      {
+        "uid": "0xbbb925be1684a36cddb7701a6647b6769338af09215dc1c0796240d8a24a6fab",
+        "recipient": "0xE00d2aA085B3cA2F5C84A8c25ac1276b86fe662a",
+        "data": {
+          "hasPhoneNumber": true,
+          "phoneHash": "0x76780ee3d541e2a51f1c5d63d313d97e21be781e2f69bbc22211143fa3d54e13"
+        }
+      },
+      {
+        "uid": "0xb57caf7b7d1ee05a2448a14feeaae64534f97af9c397b1d695b90d603317d6c4",
+        "recipient": "0x21878a18d3F6bb57af1C8415397B6cFC8d123377",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0x03a74875747cc53f763ecf5284c1cf5aa1d3b0ef0d9630ab4b08f91e52522f64"
+        }
+      },
+      {
+        "uid": "0x8507df503001098ec5f4a9db64766ea6eb066463af2bdfc2a12025c5091f3419",
+        "recipient": "0xBbd850620dcE9AC1135BD9Ad298A780eB95d3cfE",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0x9fec268b0ac52d2b6728a36623d802162d6dbfca9aaa97b982e7dc1d5605af4a"
+        }
+      },
+      {
+        "uid": "0x75fb420517e1b9e6513da8cbb0c4f17ad88a7ed5eba59e8e12ea0ac8507fe885",
+        "recipient": "0xF7E434329A46fEA09A7b4bf8571A3C590C4c3e5F",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0x96d2461b747e92c6082834e8afa6ae0bed055699b5a7437e17f1e694c93c64cd"
+        }
+      },
+      {
+        "uid": "0xeafa0853d1e160a0780d89ae4d4c9d31792e716d37657b02b1b1e93d5150b52b",
+        "recipient": "0x3da1A0795CDF862b272936c0548830D989dABa36",
+        "data": {
+          "hasPhoneNumber": false,
+          "phoneHash": "0xbb2637c9a729b76d8974d01062c7871e309ae0b0e7a6c81b92e8d3f72c924c20"
+        }
+      },
+      {
+        "uid": "0x072c44051899faf409bc3494241a4d2cf1cefb2cc179ad2f02e4d6a19bccc6c2",
+        "recipient": "0x335e5109C6Dd7A318BE30aF631b102f537D32563",
+        "data": {
+          "hasPhoneNumber": true,
+          "phoneHash": "0x543a262e49c68beff86f066421a8e9c842fdf16a83a4ce55ca5cfbea3acad6b0"
+        }
+      }
+    ]
+  },
+  "0x424041413f6893c2f2e3e0e91ce9e26763840795b9c7fbb3866502e8d5c94677": {
+    "schema": "uint256 eventId,uint8 voteIndex",
+    "data": [
+      {
+        "uid": "0xcd8adb2b01f98bbe3e9cdbf9d4f98b71cdba63b725e52010e73f81a56c7ed994",
+        "recipient": "0xbc434bBADb655e7A9A9588Ea5eFA6F3452cD7F2e",
+        "data": {
+          "eventId": 4969585977589760,
+          "voteIndex": 255
+        }
+      },
+      {
+        "uid": "0x1e494ff9721e91c29ca123b0a29c2619ade4231f0a96df5afe7cd02b93a47eab",
+        "recipient": "0xf6F0b53726503a593097b35ff517A4DB2750188d",
+        "data": {
+          "eventId": 8967306604445696,
+          "voteIndex": 119
+        }
+      },
+      {
+        "uid": "0x779ed11c3cb9ae116f903764894be21b5f7b25600b059867ab8476b95fe0b848",
+        "recipient": "0x3b8AF5c65A1954A90C28624CBe324080465Fec1b",
+        "data": {
+          "eventId": 235080370880512,
+          "voteIndex": 96
+        }
+      },
+      {
+        "uid": "0xa15a11730d8d39994b15468cfdca0722ae3b818c47aad7f680dd703891cc00df",
+        "recipient": "0x1A9720FAa940ccB48ae84687833E5Cf1191359Ed",
+        "data": {
+          "eventId": 2775116293341184,
+          "voteIndex": 0
+        }
+      },
+      {
+        "uid": "0xb8200a7b69be70b58f43c272aa3fe34aadb18caca468734e4be92014482448ce",
+        "recipient": "0xC290ca357B51CABb0cF1235fE50A78Be3b1d2d7F",
+        "data": {
+          "eventId": 3697271489167360,
+          "voteIndex": 109
+        }
+      },
+      {
+        "uid": "0xc72c3f552ddca8c9f0bf4d118f0a100f7be515cd9a76760a1c857fc12b4a394a",
+        "recipient": "0xA8f63242c04544082a523e06f05679Bd65d7679D",
+        "data": {
+          "eventId": 6888987849392128,
+          "voteIndex": 140
+        }
+      },
+      {
+        "uid": "0x5783a4c0a4970e76237aad9404e474f6aab709ae3f7ce2cb6f35b2fdcfea203d",
+        "recipient": "0xbdc2bEA13F62994A3D06e8936ebcfaf16AD97318",
+        "data": {
+          "eventId": 3661396654948352,
+          "voteIndex": 66
+        }
+      },
+      {
+        "uid": "0xe053c4b243558081421a54db8dd8085021cba7ae8d335b32e9d2e9e6cfb50af8",
+        "recipient": "0x85536711B90fa411Cf790D2A21a5B7aEAFBF675B",
+        "data": {
+          "eventId": 6057984371195904,
+          "voteIndex": 87
+        }
+      },
+      {
+        "uid": "0xdcd1058d11c80b82c88a74b0a5613360fdda37ab6c8cd80d987317da1dcaf8ab",
+        "recipient": "0xC26C56e1e1320c7Fa368B7d8dceeCb0Ee0232C56",
+        "data": {
+          "eventId": 5551557376475136,
+          "voteIndex": 242
+        }
+      },
+      {
+        "uid": "0xd8ccd0727740982fbb6b6a3ebdff1ccde7c60e6a0e514867909f8e92497b206a",
+        "recipient": "0x23Ef4272a490afdf5fdd4F1e3BC10Ab4B28A8aE9",
+        "data": {
+          "eventId": 7414858903453696,
+          "voteIndex": 213
+        }
+      },
+      {
+        "uid": "0xe1d99ea15737da9eaa1d349f9a4e493175f77e46ae02990067f44de45de6e7eb",
+        "recipient": "0x0e8D61819A380bEe5d36994A4b819d9Dd30155d3",
+        "data": {
+          "eventId": 3160573963403264,
+          "voteIndex": 230
+        }
+      },
+      {
+        "uid": "0x424d67e17db445649fd3812c335b0eea399776a5b96b5a1904c4a92598d1cfe7",
+        "recipient": "0xcEDa5022fd09fE3fF2ca272E8F30e7BF2fDCB036",
+        "data": {
+          "eventId": 2010037385953280,
+          "voteIndex": 162
+        }
+      },
+      {
+        "uid": "0x905f7093b5e7a7f516eed906d2da37bd6108204b5cfadd33d7842f534cd317de",
+        "recipient": "0xaf875005B4bEB67F6C5aAEDae56B7D67dd6Fc57E",
+        "data": {
+          "eventId": 2541236078510080,
+          "voteIndex": 197
+        }
+      },
+      {
+        "uid": "0x5fabd30361d665ad1bba57ac754341eda472e69ff6a57eeffbc78007c9ba9ce2",
+        "recipient": "0x5953631a699D45F3F29100Ce97a05EdFeb91a8A8",
+        "data": {
+          "eventId": 1747907378151424,
+          "voteIndex": 74
+        }
+      },
+      {
+        "uid": "0xb8d416ed4800407dda6221efae4af0c5e8ce71576629b68e48733660ed51ef75",
+        "recipient": "0xa18e161930413406EcCdf15e1B6cdd2852855207",
+        "data": {
+          "eventId": 4527895456251904,
+          "voteIndex": 128
+        }
+      },
+      {
+        "uid": "0xf4c5f7e40bde76bc8463ef4680ff69a1d142dc7ba8351f5ac782a5492293095d",
+        "recipient": "0x093c7CFa2943a4476E585AC12f63C03a3949f32D",
+        "data": {
+          "eventId": 121775945940992,
+          "voteIndex": 6
+        }
+      },
+      {
+        "uid": "0x54c86ac9145cc4344ee53e70fbfe26cfde36c7879b9a8b0ee7abd24865b8c3d1",
+        "recipient": "0xBF64F2c9E282a9b2a8105Ab4160ec9B4164BaC79",
+        "data": {
+          "eventId": 5992079605891072,
+          "voteIndex": 61
+        }
+      },
+      {
+        "uid": "0xf6baa2d890f0afdb2c99577613129be001c0f186c335ddab5e7406f49c5bec42",
+        "recipient": "0x6bbb53434da4475DdC0e754FB3cd0E9AEdb48774",
+        "data": {
+          "eventId": 4597642310975488,
+          "voteIndex": 113
+        }
+      },
+      {
+        "uid": "0x11eac50cea534c07557813daa5c92e74c263623e36915553e79d9a60ca4fca5b",
+        "recipient": "0x1519eb62A2dA0c01EBDb17663D4F7aeF80ec0890",
+        "data": {
+          "eventId": 5859689501818880,
+          "voteIndex": 208
+        }
+      },
+      {
+        "uid": "0x4e4b53022b7bab2243c2aa258d31b14a04ed67481f5efbb1e517746d93fd03c5",
+        "recipient": "0x4934E5717f6C5D05945490e1C77580A04e769189",
+        "data": {
+          "eventId": 6660456122941440,
+          "voteIndex": 133
+        }
+      }
+    ]
+  },
+  "0xc8c8be26e2082ff59e0f1725b2b85322adc80648c7c4084441ba67ee46ad0127": {
+    "schema": "bool hasPassedKYC",
+    "data": [
+      {
+        "uid": "0xe257dd5294af8f08001ddd265979df58b808fdfdd96561a6cd8f4dc2272dfcef",
+        "recipient": "0xD45266Ea2a4C77f9f9753274813f1970b67D5819",
+        "data": {
+          "hasPassedKYC": true
+        }
+      },
+      {
+        "uid": "0xce885a6075c1cbf88e53d7b9fcdcaa7a3a7673e13106b5761e31edc23268f4c7",
+        "recipient": "0x66461Aa240bA2041e2e93B367e211e6Ce0f681D7",
+        "data": {
+          "hasPassedKYC": false
+        }
+      },
+      {
+        "uid": "0xbd250ac20c10dd49b876bce0d1a8035dac04e8ad8ca0c215631c68902d5e6721",
+        "recipient": "0x9ecf0160a17E6F3A0184Db3f4640D14ec27B11Ec",
+        "data": {
+          "hasPassedKYC": false
+        }
+      },
+      {
+        "uid": "0xc73d59e3d81c403aea1734698622186dddb6fb23a79e8a4dbf40587992e20ff2",
+        "recipient": "0x277bbF7205FCfC0F6f4E9644Cbe987A5238bFC25",
+        "data": {
+          "hasPassedKYC": false
+        }
+      },
+      {
+        "uid": "0x06608d00b6b774960f184ec0121e7a35e82a3bb8c06a88685d4570b81a5a1d1c",
+        "recipient": "0x317c18e27fEeB81F839055E922E4E5b2dcb6A78c",
+        "data": {
+          "hasPassedKYC": true
+        }
+      },
+      {
+        "uid": "0xd0bbf0587fca91ba2d3adf0a3d379176874a40bd46d9ef0feb2f115bae3f5dda",
+        "recipient": "0xB7C1Cf9be20c1Bec59F654Eb5092274259909515",
+        "data": {
+          "hasPassedKYC": false
+        }
+      },
+      {
+        "uid": "0x36ebe15fbf58ae19f2fa76ecc3563edba330653d6a4b7241c79d3369d54dc805",
+        "recipient": "0x0c2745c9E8c07884ebC0aB0861dbEe52E9bb290f",
+        "data": {
+          "hasPassedKYC": true
+        }
+      },
+      {
+        "uid": "0xe2c4a8a999727ae86c9407416d4f44a18a80e142dff2858fbe56cf6484f6d63b",
+        "recipient": "0xfA1b2430d259BcAe7293829f48CCc3aF56d2372A",
+        "data": {
+          "hasPassedKYC": true
+        }
+      },
+      {
+        "uid": "0x33d35d64721e9af8a5c2df4ead9fc418d82fdf75d5fdef06babe1cbbd015e584",
+        "recipient": "0xFfdF19762Cc5C77D45Ce49f1677523FcfF2eA629",
+        "data": {
+          "hasPassedKYC": false
+        }
+      },
+      {
+        "uid": "0xb2ac975ebf2f094c33dad76b1ecbc8f385f8aa607b5e0b7c0094ae3aa5bbfde9",
+        "recipient": "0x7D786D319368A87DbD7CE5C4C875F77a2831Cf41",
+        "data": {
+          "hasPassedKYC": true
+        }
+      },
+      {
+        "uid": "0x2651882aa1e73650687599fa08c21d1cb4b11558bb8028711779c1fe3b34414a",
+        "recipient": "0x217CDD0B07Ede1D6437bACD7FB2C0bE6F9565001",
+        "data": {
+          "hasPassedKYC": true
+        }
+      },
+      {
+        "uid": "0xdcfbaac07344d4aa63f0b725fec5829869a863d9c4469324b3eec8d03c6bbe23",
+        "recipient": "0xd9ed6F428CC2e84A83116C1490b7857B4c454752",
+        "data": {
+          "hasPassedKYC": true
+        }
+      },
+      {
+        "uid": "0x2073c09c04b7758b17fb223d55add319973565cf1e74a53332a5802b56bc3712",
+        "recipient": "0x7Ef07c5eF466a5edB3eAC3aA304F522ff6CE4855",
+        "data": {
+          "hasPassedKYC": false
+        }
+      },
+      {
+        "uid": "0x8557f992b2447128ab1ecd4b610bf09af26d61c9f7dff08ed0b2af8528d488ca",
+        "recipient": "0x0e0E84bDdC276C46F1B3ed4A15c40B53eCfd30A1",
+        "data": {
+          "hasPassedKYC": true
+        }
+      },
+      {
+        "uid": "0x3fc8dcdb3462371e9ff3b060e617159978c316e7976b4a3d7781e6b5bb597295",
+        "recipient": "0x5a4Eeb12c0537e9Ae1c5052b5Ebb74B39958F683",
+        "data": {
+          "hasPassedKYC": true
+        }
+      },
+      {
+        "uid": "0xb0c76631417fbdebf948b924a9b639057e4e87d2ec1cf24cab51f8a208f26501",
+        "recipient": "0xBec66f84769f7BE8D657937752823802A6939AeB",
+        "data": {
+          "hasPassedKYC": false
+        }
+      },
+      {
+        "uid": "0x68d9d5111331706839595b58a34851ce56be3b9391b6b55c9cc60a555f0f6ef8",
+        "recipient": "0x0C348070969697E3800C7B01F0Ac6083840939b1",
+        "data": {
+          "hasPassedKYC": true
+        }
+      },
+      {
+        "uid": "0xb8f512a5b35cf45f8d4edbec3bc88db480e5851a79aefaf50bb8bfed7ecdf42a",
+        "recipient": "0x53e65Aa6E6c2E0B7f0F7037931167CF59cf963C7",
+        "data": {
+          "hasPassedKYC": false
+        }
+      },
+      {
+        "uid": "0xa5ade2dd61f48adb3a62b714ef3bd582ce446e3bb762893733e3dd3081db001f",
+        "recipient": "0xDe974da4dC781425B2c53C8d209B43EAFd9D5c80",
+        "data": {
+          "hasPassedKYC": false
+        }
+      },
+      {
+        "uid": "0xba999b993eada113ee538275d90a79fa667ee28b62a6c61cc70e9e2a4987a621",
+        "recipient": "0x465Fe53D0a64cbc7d269de0d4087DA826Abe8716",
+        "data": {
+          "hasPassedKYC": true
+        }
+      }
+    ]
+  },
+  "0x080b936de73075fc93150909d2e0fb26eb7a4090ca027f071cbb0af23ae73f19": {
+    "schema": "bool isAccreditedInvestor",
+    "data": [
+      {
+        "uid": "0x7721b893851fc35b8aba986fbac80f1dd4ea97299b54687bb99924583ed67844",
+        "recipient": "0x96b2B4f17C070AaC78d69693c38d0Fb666E870BE",
+        "data": {
+          "isAccreditedInvestor": true
+        }
+      },
+      {
+        "uid": "0xcfda76aadb91463d54dc16e4927af6763eda3f0507249b362b65db734e343d1d",
+        "recipient": "0x9B65678B2EF3c90A831B9D1f8aA2Bd1f82b52A8b",
+        "data": {
+          "isAccreditedInvestor": true
+        }
+      },
+      {
+        "uid": "0xf2bb0380f5c0f93747b75f28fe4d4d65b4e2770502e5968d663d0b0fc059bc3c",
+        "recipient": "0x92C40E4a9A52a2d852AC776a486EE204F32F8eCf",
+        "data": {
+          "isAccreditedInvestor": false
+        }
+      },
+      {
+        "uid": "0x2bc73a833179bf4eeaadf73f74d5693701b9d7dd6ea8ea2918ffb9b756917bbc",
+        "recipient": "0x4B3869eEC43094Ee21c27243610ceDe5980cE43B",
+        "data": {
+          "isAccreditedInvestor": false
+        }
+      },
+      {
+        "uid": "0x656346999442a3d8413ee7d9eca8c8246364c171f416cdf05b69b2a87415ae44",
+        "recipient": "0x43401B2083F8b5d83F91afF1B87366bccD33363e",
+        "data": {
+          "isAccreditedInvestor": true
+        }
+      },
+      {
+        "uid": "0xeb30f85ae7777550b0f940f7afacb10d0880d822e54f70575836613c1cc26a2a",
+        "recipient": "0xA388D2544Bc98BbC7c6d33C3526406DcC5773529",
+        "data": {
+          "isAccreditedInvestor": false
+        }
+      },
+      {
+        "uid": "0x0717a6f56a89478bdd433d723568a6d364f3a64ef3f02f54b83ae1bec8694b6a",
+        "recipient": "0x0511E80ddaD102f7114402104D70564A2e73c86A",
+        "data": {
+          "isAccreditedInvestor": false
+        }
+      },
+      {
+        "uid": "0x863c53a5a5d76dc67bfdce25dcb0b25c839b12d1c929633139bcd63fd5c4b85c",
+        "recipient": "0x9Fd194142E85E1425f7494B7aD0ef901C4b7d182",
+        "data": {
+          "isAccreditedInvestor": true
+        }
+      },
+      {
+        "uid": "0xe89b3056809d6f54d0f3ce95a73ad5b54880a30390fa4eddd64d152881a111a7",
+        "recipient": "0xc537f2827Ddfee7cc91aC6Bc6019053868DaDaBC",
+        "data": {
+          "isAccreditedInvestor": false
+        }
+      },
+      {
+        "uid": "0xc9097b249dc85f747370149f4efcad6e3bad1e1224abb684fdd8b267d1a0266d",
+        "recipient": "0x56E2c8D3972473F72d7952d70fdEa8eDD96Df5Fb",
+        "data": {
+          "isAccreditedInvestor": false
+        }
+      },
+      {
+        "uid": "0x62ab7f6f9db11bcf37353d485558a33dba5dcbaff969cffb23347854fd0f90a5",
+        "recipient": "0x82D894BAE6107d175B3A5EEd2887917380cA6B8d",
+        "data": {
+          "isAccreditedInvestor": false
+        }
+      },
+      {
+        "uid": "0x1e3a80f00ccde27c068bded17cb546734d0b7fbdc2e6c06e1244fb77f2fcf0d9",
+        "recipient": "0x26ddfE9552fb1cF246c3309eA40B45a49cd91a29",
+        "data": {
+          "isAccreditedInvestor": true
+        }
+      },
+      {
+        "uid": "0x9373347576fcbd58a3a6f65a6e7dcc26b29fddcedb39985191b38366bc89f4a1",
+        "recipient": "0x05a19B91D1799A5Ca56637342323dd87306c7115",
+        "data": {
+          "isAccreditedInvestor": true
+        }
+      },
+      {
+        "uid": "0x8c75ed0a874b1acdc31e617eee43e5ec2d1a74650dc59f511623e63236812430",
+        "recipient": "0x7a4950983c46Cfa8fcB8d72D839Dd66EE5014152",
+        "data": {
+          "isAccreditedInvestor": true
+        }
+      },
+      {
+        "uid": "0xa3f918f286795e64af79956e9a1e511aa442c2920c5870331c676d5d1aab61bf",
+        "recipient": "0xAAc533832a81BBcf53f94C0d6ed7a3c393CBaFBf",
+        "data": {
+          "isAccreditedInvestor": true
+        }
+      },
+      {
+        "uid": "0x355880da78a9e5aa9be5df9a64b1353e3804d2b29a28a2bbfc1e727a33682356",
+        "recipient": "0xA495d8A6D832eC4D429aCbec52487F11a5124973",
+        "data": {
+          "isAccreditedInvestor": false
+        }
+      },
+      {
+        "uid": "0x657ba1ef1e14beaf2e4004165fe990726a3412e72a15eeb7712e54a6c7b71f3d",
+        "recipient": "0x7Bc6EdA51D7B2C336874f35efE261B8b785B3bd1",
+        "data": {
+          "isAccreditedInvestor": false
+        }
+      },
+      {
+        "uid": "0xf1820658730dcb37f6dfcc2dada2e6c87b584eaeb9735f358be46eb5990ed43b",
+        "recipient": "0x120Af8A1fA3a1C84dA185b79dd058fc1F617175D",
+        "data": {
+          "isAccreditedInvestor": true
+        }
+      },
+      {
+        "uid": "0xdb1954e05ab94b3bde60bdb69f43c22526b1e729697874da87313495d0929589",
+        "recipient": "0x7c711335db5C3eFaa0Cbb7B4955c4dC7a9f2C3D7",
+        "data": {
+          "isAccreditedInvestor": true
+        }
+      },
+      {
+        "uid": "0x63f2f32d0719788a5d81d75edb3c1f8a4ac613d174cacf973192873ad49e1fbb",
+        "recipient": "0x0E4CaDf584a115F6801BBEcc9c61699Ae821800D",
+        "data": {
+          "isAccreditedInvestor": true
+        }
+      }
+    ]
+  },
+  "0xd3f24e873e8df2d9bb9af6f08ea1ddf61f65754d023f3ea761081e3e6a226a80": {
+    "schema": "bytes32 hashOfDocument,string note",
+    "data": [
+      {
+        "uid": "0x05da25b2a3deffd9b9ab884c00a799ce2135b14f7f41a6d0f5845c0429f26ce2",
+        "recipient": "0xbcE7E1f4FF160ebb8de1A463BeBDD0002c8D6f5C",
+        "data": {
+          "hashOfDocument": "0x4395e0b450c85f0d6eee7515b5c2545ac05851d8d2fda8ff0b9929bd82ccc9dc",
+          "note": "Fedob makec todega foldelho igherasa cawsirole niga ni dek nif tih hihfa."
+        }
+      },
+      {
+        "uid": "0x70e8bc30ec0fa8863ccff4672235984c672b459ac322759df201dc329240c120",
+        "recipient": "0x12Ec07A3492cd4a565e853b73B588f4aF3783e86",
+        "data": {
+          "hashOfDocument": "0xc9f775fcffb8dd3ca97512133d031071c7ab7cc2b7b992effae85d77e64fbf28",
+          "note": "Kimduprap sopbel husolesu rudocge cacsi wi cehtoplek fuzri lu nuwor uwasu ci losgo."
+        }
+      },
+      {
+        "uid": "0x1065bde50dc236f9e48c4168ec080614169842ba7944fee35de58b47de373086",
+        "recipient": "0x88A1DE361Ac044F2d3fCDEA4E1145C4adcb6f46F",
+        "data": {
+          "hashOfDocument": "0xfc4d311216e3be635416ee921643e8022528ae921c589323b5869b4fa22bb602",
+          "note": "Deabubas uriliril ke rad safegaf gofekme ewa revi ragedbi ji juvoza jedamig folboj itaodieno esrova juso noahha kaepive."
+        }
+      },
+      {
+        "uid": "0xde87291e9789d4bfcd4148554ba4c21d3a8d74d2913c7b953893a5aae9e1cb01",
+        "recipient": "0x7C429C2BE4cE873586d6d56Fd8F234df9Ce5A0d0",
+        "data": {
+          "hashOfDocument": "0xf2b9c136426f0dfb4b5f19bc4a081590f20bf9406ebf698f1071a8ee1ab8eb02",
+          "note": "Awe vafa vawli at ifo ho da hu lute wehat uk mitgurow."
+        }
+      },
+      {
+        "uid": "0xeb6b399d56715dc2ab22e333dc8bfa6985918bd6bf3c060648fa1571c2ecf383",
+        "recipient": "0xe8A961Ac25BB917653A4ed035Ac130e733c52C67",
+        "data": {
+          "hashOfDocument": "0x95f4c419c292021aa59c34c4c85153378eb285a20056236795441e12b18aeb73",
+          "note": "Da jukmap daphi kifi hiw avemaove furo eb did ve ma vel zi hofu wikonwir pir sum."
+        }
+      },
+      {
+        "uid": "0x97fc7b1f46417ea5aa2b9e9744fd319007feadbf99f8eabaa70c90a0c62bb0e2",
+        "recipient": "0x18553ac5e32D23F08dB84Dd9dfa8e79Db61bd4F7",
+        "data": {
+          "hashOfDocument": "0x11b80835068cbec2a52582c0549bc90c055d8ebf912b553b1adec71122bcd661",
+          "note": "Johab softek wem sivicvaj koh agimu kekanin ji ilahwa kunru boowagin ha guhif dekwespig jaginfam ahudemuh pa lahi."
+        }
+      },
+      {
+        "uid": "0xb407e60e998c6cd8e93219476bf8c94e351394bade704490d57b33868f5f6a66",
+        "recipient": "0x91BF2dd252B643D1386eBD80FbaC1EcB503557dd",
+        "data": {
+          "hashOfDocument": "0x995d80629d2449e4420a2c120395016c2949c79f4528ef5f18702a04587976a9",
+          "note": "Ikojarza tu ce wum sevsoz pizdus ruhuhhal ojocuco me ok we od wauhes peoza fije fuz."
+        }
+      },
+      {
+        "uid": "0x0a2848c4fe768d4b2a91aa399a6ce7c539c81323d7b79f7cc6777618572701c0",
+        "recipient": "0x7669Fcd9002be79bc5948c678171d0AfaCbeb030",
+        "data": {
+          "hashOfDocument": "0x6fdd585eeb363e98342b8f614b9d0a08d88af964ef020a511fe5ef880e858d9f",
+          "note": "Uka wornifo mijazo nibe donsepav balfuimi uz da zor rale igeajle aho rogo ohboso fo kikaume."
+        }
+      },
+      {
+        "uid": "0x9a159977792a75fb18f931608ed078238289c08f541e92556f7a6b7b7690f8c1",
+        "recipient": "0x1a54e0d815976Da9E90Cd83fBFe5a69db314c3b9",
+        "data": {
+          "hashOfDocument": "0xfe56b3abcf414fdd144854d6fca219bcdf2d563e9317634c239528cdf3b1d10f",
+          "note": "Fug neub pukcilem feim cerok udicid wuw konrenjiz co ivep pinodbu fatdiaco wecitsap zef onrag mulevarec ago bo."
+        }
+      },
+      {
+        "uid": "0x7e91ba184419ac1c4c0384b7c72e7d78b1d7d0e065328fdffb25a5e0e8104898",
+        "recipient": "0x7C15515160CCec2661Cf7E81dfE2E26aB6844d23",
+        "data": {
+          "hashOfDocument": "0x6a8cbfb60164df3135953b55a21b83a0b8334ee13bbf4e15d4344f8ab640bff3",
+          "note": "Kofocihur pihuv joaf ukigikfi obiwmo zifasdoz oma lizev otu vul moblu wojozi ibonew befgiib."
+        }
+      },
+      {
+        "uid": "0x52e320159fe66df05fe04735f72a1f51605aaf917a6568c1b985cd45279f339e",
+        "recipient": "0x0687dbfA90f716292D8FC35eaACCE67426955934",
+        "data": {
+          "hashOfDocument": "0x69aafa5b56b5527f95b7990be5227d298b255600e6a22e090e6ae1615f1c1c67",
+          "note": "Bored wilo kuf zap jihe pew ceuvavu ro sew re bihfu cobsolzoz lunletul obosesif ceruhuwo fu ora."
+        }
+      },
+      {
+        "uid": "0x58d93c71291d2bef604c287f36fc57097967256c75ce2f1e43cc5f32f54582fd",
+        "recipient": "0x4f373182F958C961103004A0713c1a383b259d94",
+        "data": {
+          "hashOfDocument": "0x4fc5597cdd1f3d005e5ce8fdd084c9c74a166507710ac98478e8f74d8704bf17",
+          "note": "Wuf doh kofsi sep ozazura zijib sahlow muto fobol irkofod awafor ejiuve raobdoc."
+        }
+      },
+      {
+        "uid": "0xb72b90b97c3b01375899027e402bada8d4d1504c15fc6190f7733b0c4a64fa81",
+        "recipient": "0xe7Dc4bB2151854d05895BC4784e780E41E92C85c",
+        "data": {
+          "hashOfDocument": "0x466f502c36e716da53f997a3b4bc6633b556dd1ce3b115d157cc26d336ba25c9",
+          "note": "Maffi vid iw tah mazi iju fegi ov da kivi kewrur vivtu eb toplol ipew."
+        }
+      },
+      {
+        "uid": "0x62054a3095295e1b33c51e19a72dbc069b2d7099ea695f04f14621bf9c6734f1",
+        "recipient": "0x8A62E7435301F27E1786e99ee161f1295958178f",
+        "data": {
+          "hashOfDocument": "0x1a1c84c389e840da82272d4e53adf743daf5884e4c761cd94f61372e872fa813",
+          "note": "Iwojo riho fufo jar cec envivco ladsaapi duwkubi desawase rafitof awuho lig otuabusi ewiiz foh do faabegaf."
+        }
+      },
+      {
+        "uid": "0xe318455f28ca344ef21a3c2a482a1aec6401a7af1a37657bafb8acf52934ae01",
+        "recipient": "0x41cDc3223687693Ff378534e13EC735e6AcccB83",
+        "data": {
+          "hashOfDocument": "0x6c172315da9e50c96c277e7ad499ba6b4247e0de0516f2afb06af3c2426d154a",
+          "note": "Vafdu er jow di tocpu tevpazze owde macdu ituna nonog rinojos nukkumna tuci ispiem ocihowke jebiat uca du."
+        }
+      },
+      {
+        "uid": "0x91a20bcacd8c295f816c1427a4524d8e4346c909ff7e5f411dc23775c34e5bbf",
+        "recipient": "0x0162f48D055DB68905d695cb3f4FD8460a3f1a44",
+        "data": {
+          "hashOfDocument": "0x1370a88ef1794182a5f27b52d31afd70c5ae2e8030fb5fe799b44db09729145b",
+          "note": "Hifej egoes bedo ruheko bo hojsalla femtefhiw alo ihi fewen lehujium sehieni ubezeab cov pem vova."
+        }
+      },
+      {
+        "uid": "0xfd2e2c93897b72061794ebf0e622c312bf25a42e1c5f1c4228ebf5d0e91648da",
+        "recipient": "0x331aD0Ded286010d32026062Fc64e604732620E0",
+        "data": {
+          "hashOfDocument": "0x6c9555c2810dd35eaaca082d47e4f120ed04a67692d136dd0dcb3ab1924e2799",
+          "note": "Ehedira werir zezugju hamke ozmu inuju mulouf wi ka gizukhal hoc etozec cesag mu nu."
+        }
+      },
+      {
+        "uid": "0xd4b42d2c729a208ccdf6ea8511e96d249d21ed111ac3614556528e7e54641912",
+        "recipient": "0x23370618664C128BE05207aC5F7aC6899eF1E4Ec",
+        "data": {
+          "hashOfDocument": "0x826b6b292b3f6013a909dca16be0c892614c29d4d8a6561d25ebb21ca082df2e",
+          "note": "Jifu roho heguse vukig ci hekopus di rimtiruf odedo mop hoji ze ehsukkir bu pu."
+        }
+      },
+      {
+        "uid": "0xf67febfc0ee0aa703927777b10c18bf73b92362b21c81aa7c3d637f4a959e760",
+        "recipient": "0xBe46b61890d5270E0cE9538b13EC8eD92208e614",
+        "data": {
+          "hashOfDocument": "0x3e192de446b8851c411c2cd4ede9b05cd0b9e1ce8d3dc0859cd422ea6135ebb0",
+          "note": "Waheg uw enapiepe ziwor wac nicrab icpo fascuwak tudi uki eze noc melci ni efi ovo begrinha bolase."
+        }
+      },
+      {
+        "uid": "0x605000a5c48d3c7da69f06e052e9f8789e003ca00f5f896d0bec816c7aa56419",
+        "recipient": "0x0dc4bDaA199246b0cc2ceBEA45C99f409E8267Bf",
+        "data": {
+          "hashOfDocument": "0x7be4691242c97d2a3aa524b730bd49b465780dbcba58430d15a2061e1d3f5f81",
+          "note": "Astulen guj zawkedog tuctu awezo vidakefok fukulge midzip za koltintos jicifme jodsi galratere ti me obeom juhijfi."
+        }
+      }
+    ]
+  },
+  "0x0081196516957509db14e998fa4191dd2d7e0c9a21377214806b3fbb8566f4c1": {
+    "schema": "uint8 holdType,uint8 useType,uint64 expiration,int40[2][] polygonArea",
+    "data": [
+      {
+        "uid": "0xb6b7fb51495360e167656d89b4bcb7da4249bfdd3e63214bf4d320338725610e",
+        "recipient": "0xFb67B63aF541B871C24EEE4cD124A6457fF1Ad92",
+        "data": {
+          "description": "Tower of Belem, Lisbon, Portugal",
+          "holdType": "Lease",
+          "useType": "Cultural",
+          "expiration": "0",
+          "polygonArea": [
+            [
+              38.69146,
+              -9.21607
+            ],
+            [
+              38.69182,
+              -9.21607
+            ],
+            [
+              38.69172,
+              -9.21574
+            ],
+            [
+              38.69144,
+              -9.2158
+            ]
+          ]
+        }
+      },
+      {
+        "uid": "0x309b4eb2647c5cbdb15021799890bb4a285a96a87b635a928f021a0b6435a092",
+        "recipient": "0x6b215C63D6fd79D25A016f9eF7b7F2AE2D70EdCb",
+        "data": {
+          "description": "Statue of Liberty, New York, United States",
+          "holdType": "Lease",
+          "useType": "Cultural",
+          "expiration": "0",
+          "polygonArea": [
+            [
+              40.68886,
+              -74.04463
+            ],
+            [
+              40.69003,
+              -74.04721
+            ],
+            [
+              40.69101,
+              -74.04669
+            ],
+            [
+              40.69065,
+              -74.04429
+            ],
+            [
+              40.68976,
+              -74.04326
+            ],
+            [
+              40.68872,
+              -74.0436
+            ]
+          ]
+        }
+      },
+      {
+        "uid": "0xd2a2c5586b2450e32aa998759af34782a1f05fce8d83082434addc64e7d4698b",
+        "recipient": "0x6b7Ca68337DD6743b287662b98d657885FC5065b",
+        "data": {
+          "description": "Athens Metro Mall, Agios Dimitrios, Greece",
+          "holdType": "Free",
+          "useType": "Commercial",
+          "expiration": "0",
+          "polygonArea": [
+            [
+              37.93983,
+              23.73881
+            ],
+            [
+              37.93885,
+              23.73929
+            ],
+            [
+              37.93878,
+              23.74107
+            ],
+            [
+              37.94091,
+              23.74025
+            ],
+            [
+              37.94066,
+              23.73934
+            ]
+          ]
+        }
+      },
+      {
+        "uid": "0xf64ac95c6ef93af8064bfced6ccb04ec70f59df0b597a669a995f612afdbb12d",
+        "recipient": "0x121c9F3b75Bab1f8107120Bc3566Df972035A3E0",
+        "data": {
+          "description": "Acropolis Museum, Athens, Greece",
+          "holdType": "Free",
+          "useType": "Educational",
+          "expiration": "0",
+          "polygonArea": [
+            [
+              37.9683,
+              23.72791
+            ],
+            [
+              37.96902,
+              23.72815
+            ],
+            [
+              37.96898,
+              23.72826
+            ],
+            [
+              37.96866,
+              23.72839
+            ],
+            [
+              37.96869,
+              23.7289
+            ],
+            [
+              37.96809,
+              23.7291
+            ]
+          ]
+        }
+      },
+      {
+        "uid": "0x7435d4e8b3b02748cfa93e14f5676fb3ce9ffc129230b3c3da13da90f5b276fb",
+        "recipient": "0xc9fc1bA3a9E6927537b6e7CD42f5CA91477741Cd",
+        "data": {
+          "description": "Karamanlidika restaurant, Athens, Greece",
+          "holdType": "Free",
+          "useType": "Commercial",
+          "expiration": "0",
+          "polygonArea": [
+            [
+              37.98014,
+              23.72569
+            ],
+            [
+              37.98015,
+              23.72557
+            ],
+            [
+              37.98029,
+              23.7256
+            ],
+            [
+              37.98027,
+              23.72573
+            ]
+          ]
+        }
+      },
+      {
+        "uid": "0x9891702e865fa561e50f3aa53245e1af995ddb7b2b85b69086699f1b677661a2",
+        "recipient": "0x4b471d882eDe52263dbF87d8321C1436D8063706",
+        "data": {
+          "description": "Ermou street, Municipal unit of Polichni, Greece",
+          "holdType": "Lease",
+          "useType": "Residential",
+          "expiration": "0",
+          "polygonArea": [
+            [
+              40.65963,
+              22.95344
+            ],
+            [
+              40.65999,
+              22.95335
+            ],
+            [
+              40.65999,
+              22.95328
+            ],
+            [
+              40.65969,
+              22.95336
+            ],
+            [
+              40.65958,
+              22.95341
+            ],
+            [
+              40.65923,
+              22.95403
+            ],
+            [
+              40.65925,
+              22.95407
+            ],
+            [
+              40.65912,
+              22.95417
+            ],
+            [
+              40.65912,
+              22.9541
+            ],
+            [
+              40.6593,
+              22.95401
+            ]
+          ]
+        }
+      },
+      {
+        "uid": "0xb81e94cb285b11b1e4989f9b0ccb070aa1f1dbf80452bafee5708f8f27f2dfee",
+        "recipient": "0x88038F130f3edC55Fad737F250827fF3012bd498",
+        "data": {
+          "description": "Hellenic Parliament, Athens, Greece",
+          "holdType": "Lease",
+          "useType": "Governmental",
+          "expiration": "0",
+          "polygonArea": [
+            [
+              37.97597,
+              23.73636
+            ],
+            [
+              37.97462,
+              23.73611
+            ],
+            [
+              37.97449,
+              23.73748
+            ],
+            [
+              37.97581,
+              23.73787
+            ]
+          ]
+        }
+      },
+      {
+        "uid": "0x7d1b3f0d1fa23ab23ad7023ba869a6bab4f33bdee4fcd71d85103eb62ac9b5c8",
+        "recipient": "0xeCa5FF602A6908Ed6Fe7f1BA0C7be4A0c160D1DC",
+        "data": {
+          "description": "Supreme Civil and Criminal Court of Greece, Athens, Greece",
+          "holdType": "Lease",
+          "useType": "Governmental",
+          "expiration": "0",
+          "polygonArea": [
+            [
+              37.98905,
+              23.75222
+            ],
+            [
+              37.98864,
+              23.7522
+            ],
+            [
+              37.98855,
+              23.75269
+            ],
+            [
+              37.98841,
+              23.75265
+            ],
+            [
+              37.98835,
+              23.75298
+            ],
+            [
+              37.98849,
+              23.75303
+            ],
+            [
+              37.98841,
+              23.75347
+            ],
+            [
+              37.98859,
+              23.75354
+            ],
+            [
+              37.98862,
+              23.75342
+            ],
+            [
+              37.98878,
+              23.75346
+            ],
+            [
+              37.98874,
+              23.75369
+            ],
+            [
+              37.98914,
+              23.75379
+            ],
+            [
+              37.9893,
+              23.75307
+            ],
+            [
+              37.98942,
+              23.75248
+            ],
+            [
+              37.9894,
+              23.75234
+            ]
+          ]
+        }
+      },
+      {
+        "uid": "0x5a32a7ed7a9580ac1c67a28c2d2882a00483b541f1fd9947c1988315cbf96269",
+        "recipient": "0x6d08A668aad461aacd282fc0e263b24724934bcA",
+        "data": {
+          "description": "University of Crete, Gallos, Greece",
+          "holdType": "Lease",
+          "useType": "Educational",
+          "expiration": "0",
+          "polygonArea": [
+            [
+              35.35284,
+              24.44718
+            ],
+            [
+              35.35368,
+              24.44625
+            ],
+            [
+              35.35508,
+              24.44724
+            ],
+            [
+              35.35599,
+              24.44868
+            ],
+            [
+              35.35587,
+              24.45066
+            ],
+            [
+              35.35514,
+              24.45324
+            ],
+            [
+              35.35266,
+              24.45269
+            ],
+            [
+              35.35205,
+              24.45239
+            ],
+            [
+              35.35157,
+              24.45082
+            ],
+            [
+              35.35161,
+              24.44959
+            ],
+            [
+              35.35205,
+              24.44861
+            ],
+            [
+              35.35222,
+              24.44773
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}
